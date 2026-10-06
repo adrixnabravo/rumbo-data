@@ -1,0 +1,41 @@
+name: Motion and report texts
+
+on:
+  schedule:
+    - cron: "47 11 * * *"   # 30 minutes after the nightly vote update
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Pull texts for matters introduced on or after"
+        default: "2023-01-01"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+
+jobs:
+  texts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pull texts
+        run: python scripts/fetch_texts.py --since "${{ github.event.inputs.since || '2023-01-01' }}"
+      - name: Commit changes
+        run: |
+          git config user.name "rumbo-bot"
+          git config user.email "rumbo-bot@users.noreply.github.com"
+          git add data/texts
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Texts update: $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
+            git push
+          fi

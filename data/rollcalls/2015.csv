@@ -1,0 +1,979 @@
+event_id,event_date,body,item_id,person_id,person,status
+1034,2015-07-15,Ad Hoc Sustainability Committee,13714,289,Pam O'Connor,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13714,282,Mike Bonin,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13714,881,Jacki Bacharach,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13714,280,John Fasana,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13714,1044,Nancy Pfeffer,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13714,279,Mark Ridley-Thomas,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13714,290,Hilda L. Solis,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13714,1821,Carrie Bowen,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13714,1861,Shirley Choate,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13714,1848,Phil Washington,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13963,289,Pam O'Connor,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13963,282,Mike Bonin,Absent
+1034,2015-07-15,Ad Hoc Sustainability Committee,13963,881,Jacki Bacharach,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13963,280,John Fasana,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13963,1044,Nancy Pfeffer,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13963,279,Mark Ridley-Thomas,Absent
+1034,2015-07-15,Ad Hoc Sustainability Committee,13963,290,Hilda L. Solis,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13963,1821,Carrie Bowen,Absent
+1034,2015-07-15,Ad Hoc Sustainability Committee,13963,1861,Shirley Choate,Absent
+1034,2015-07-15,Ad Hoc Sustainability Committee,13963,1848,Phil Washington,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13964,289,Pam O'Connor,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13964,282,Mike Bonin,Absent
+1034,2015-07-15,Ad Hoc Sustainability Committee,13964,881,Jacki Bacharach,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13964,280,John Fasana,Absent
+1034,2015-07-15,Ad Hoc Sustainability Committee,13964,1044,Nancy Pfeffer,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13964,279,Mark Ridley-Thomas,Absent
+1034,2015-07-15,Ad Hoc Sustainability Committee,13964,290,Hilda L. Solis,Present
+1034,2015-07-15,Ad Hoc Sustainability Committee,13964,1821,Carrie Bowen,Absent
+1034,2015-07-15,Ad Hoc Sustainability Committee,13964,1861,Shirley Choate,Absent
+1034,2015-07-15,Ad Hoc Sustainability Committee,13964,1848,Phil Washington,Present
+1036,2015-10-14,Ad Hoc Congestion Reduction Committee,15467,290,Hilda L. Solis,Present
+1036,2015-10-14,Ad Hoc Congestion Reduction Committee,15467,279,Mark Ridley-Thomas,Absent
+1036,2015-10-14,Ad Hoc Congestion Reduction Committee,15467,1848,Phil Washington,Present
+1036,2015-10-14,Ad Hoc Congestion Reduction Committee,15467,280,John Fasana,Present
+1036,2015-10-14,Ad Hoc Congestion Reduction Committee,15467,284,Jacquelyn Dupont-Walker,Present
+1036,2015-10-14,Ad Hoc Congestion Reduction Committee,15467,282,Mike Bonin,Absent
+1036,2015-10-14,Ad Hoc Congestion Reduction Committee,15467,1821,Carrie Bowen,Present
+1036,2015-10-14,Ad Hoc Congestion Reduction Committee,15467,1861,Shirley Choate,Absent
+1037,2015-10-14,Ad Hoc Sustainability Committee,15176,1044,Nancy Pfeffer,Present
+1037,2015-10-14,Ad Hoc Sustainability Committee,15176,279,Mark Ridley-Thomas,Present
+1037,2015-10-14,Ad Hoc Sustainability Committee,15176,1848,Phil Washington,Present
+1037,2015-10-14,Ad Hoc Sustainability Committee,15176,289,Pam O'Connor,Present
+1037,2015-10-14,Ad Hoc Sustainability Committee,15176,282,Mike Bonin,Present
+1037,2015-10-14,Ad Hoc Sustainability Committee,15176,280,John Fasana,Present
+1037,2015-10-14,Ad Hoc Sustainability Committee,15176,290,Hilda L. Solis,Present
+1037,2015-10-14,Ad Hoc Sustainability Committee,15176,881,Jacki Bacharach,Present
+1037,2015-10-14,Ad Hoc Sustainability Committee,15176,1821,Carrie Bowen,Present
+1037,2015-10-14,Ad Hoc Sustainability Committee,15176,1861,Shirley Choate,Present
+1040,2015-10-15,Construction Committee,15469,288,Ara J. Najarian,Absent
+1040,2015-10-15,Construction Committee,15469,283,Diane DuBois,Present
+1040,2015-10-15,Construction Committee,15469,1848,Phil Washington,Present
+1040,2015-10-15,Construction Committee,15469,285,Don Knabe,Absent
+1040,2015-10-15,Construction Committee,15469,284,Jacquelyn Dupont-Walker,Present
+1040,2015-10-15,Construction Committee,15469,282,Mike Bonin,Present
+1040,2015-10-15,Construction Committee,15469,1821,Carrie Bowen,Absent
+1040,2015-10-15,Construction Committee,15469,1861,Shirley Choate,Present
+1042,2015-10-14,"Finance, Budget and Audit Committee",15456,290,Hilda L. Solis,Present
+1042,2015-10-14,"Finance, Budget and Audit Committee",15456,283,Diane DuBois,Present
+1042,2015-10-14,"Finance, Budget and Audit Committee",15456,1848,Phil Washington,Present
+1042,2015-10-14,"Finance, Budget and Audit Committee",15456,286,Paul Krekorian,Present
+1042,2015-10-14,"Finance, Budget and Audit Committee",15456,279,Mark Ridley-Thomas,Absent
+1042,2015-10-14,"Finance, Budget and Audit Committee",15456,1820,James Butts,Present
+1042,2015-10-14,"Finance, Budget and Audit Committee",15456,1821,Carrie Bowen,Present
+1042,2015-10-14,"Finance, Budget and Audit Committee",15456,1861,Shirley Choate,Absent
+1043,2015-10-14,Planning and Programming Committee,15205,282,Mike Bonin,Absent
+1043,2015-10-14,Planning and Programming Committee,15205,287,Sheila Kuehl,Present
+1043,2015-10-14,Planning and Programming Committee,15205,1820,James Butts,Absent
+1043,2015-10-14,Planning and Programming Committee,15205,284,Jacquelyn Dupont-Walker,Present
+1043,2015-10-14,Planning and Programming Committee,15205,290,Hilda L. Solis,Present
+1043,2015-10-14,Planning and Programming Committee,15205,1821,Carrie Bowen,Present
+1043,2015-10-14,Planning and Programming Committee,15205,1861,Shirley Choate,Absent
+1043,2015-10-14,Planning and Programming Committee,15205,1848,Phil Washington,Present
+1043,2015-10-14,Planning and Programming Committee,15402,290,Hilda L. Solis,Present
+1043,2015-10-14,Planning and Programming Committee,15402,1820,James Butts,Present
+1043,2015-10-14,Planning and Programming Committee,15402,1848,Phil Washington,Present
+1043,2015-10-14,Planning and Programming Committee,15402,282,Mike Bonin,Absent
+1043,2015-10-14,Planning and Programming Committee,15402,287,Sheila Kuehl,Present
+1043,2015-10-14,Planning and Programming Committee,15402,284,Jacquelyn Dupont-Walker,Present
+1043,2015-10-14,Planning and Programming Committee,15402,1821,Carrie Bowen,Present
+1043,2015-10-14,Planning and Programming Committee,15402,1861,Shirley Choate,Absent
+1044,2015-10-15,"System Safety, Security and Operations Committee",15270,280,John Fasana,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",15270,281,Michael Antonovich,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",15270,284,Jacquelyn Dupont-Walker,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",15270,285,Don Knabe,Absent
+1044,2015-10-15,"System Safety, Security and Operations Committee",15270,288,Ara J. Najarian,Absent
+1044,2015-10-15,"System Safety, Security and Operations Committee",15270,1821,Carrie Bowen,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",15270,1861,Shirley Choate,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",15270,1848,Phil Washington,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",15307,288,Ara J. Najarian,Absent
+1044,2015-10-15,"System Safety, Security and Operations Committee",15307,285,Don Knabe,Absent
+1044,2015-10-15,"System Safety, Security and Operations Committee",15307,1848,Phil Washington,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",15307,280,John Fasana,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",15307,281,Michael Antonovich,Absent
+1044,2015-10-15,"System Safety, Security and Operations Committee",15307,284,Jacquelyn Dupont-Walker,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",15307,1821,Carrie Bowen,Absent
+1044,2015-10-15,"System Safety, Security and Operations Committee",15307,1861,Shirley Choate,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41462,288,Ara J. Najarian,Absent
+1044,2015-10-15,"System Safety, Security and Operations Committee",41462,285,Don Knabe,Absent
+1044,2015-10-15,"System Safety, Security and Operations Committee",41462,1848,Phil Washington,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41462,280,John Fasana,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41462,281,Michael Antonovich,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41462,284,Jacquelyn Dupont-Walker,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41462,1821,Carrie Bowen,Absent
+1044,2015-10-15,"System Safety, Security and Operations Committee",41462,1861,Shirley Choate,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41467,288,Ara J. Najarian,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41467,285,Don Knabe,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41467,1848,Phil Washington,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41467,280,John Fasana,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41467,281,Michael Antonovich,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41467,284,Jacquelyn Dupont-Walker,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41467,1821,Carrie Bowen,Present
+1044,2015-10-15,"System Safety, Security and Operations Committee",41467,1861,Shirley Choate,Present
+1045,2015-11-18,Ad Hoc Congestion Reduction Committee,15658,280,John Fasana,Present
+1045,2015-11-18,Ad Hoc Congestion Reduction Committee,15658,284,Jacquelyn Dupont-Walker,Present
+1045,2015-11-18,Ad Hoc Congestion Reduction Committee,15658,282,Mike Bonin,Present
+1045,2015-11-18,Ad Hoc Congestion Reduction Committee,15658,279,Mark Ridley-Thomas,Present
+1045,2015-11-18,Ad Hoc Congestion Reduction Committee,15658,290,Hilda L. Solis,Present
+1045,2015-11-18,Ad Hoc Congestion Reduction Committee,15658,1821,Carrie Bowen,Present
+1045,2015-11-18,Ad Hoc Congestion Reduction Committee,15658,1861,Shirley Choate,Present
+1045,2015-11-18,Ad Hoc Congestion Reduction Committee,15658,1848,Phil Washington,Present
+1047,2015-11-18,Ad Hoc Transit Policing Oversight Committee,15574,1820,James Butts,Absent
+1047,2015-11-18,Ad Hoc Transit Policing Oversight Committee,15574,281,Michael Antonovich,Absent
+1047,2015-11-18,Ad Hoc Transit Policing Oversight Committee,15574,284,Jacquelyn Dupont-Walker,Present
+1047,2015-11-18,Ad Hoc Transit Policing Oversight Committee,15574,280,John Fasana,Present
+1047,2015-11-18,Ad Hoc Transit Policing Oversight Committee,15574,285,Don Knabe,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,279,Mark Ridley-Thomas,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,280,John Fasana,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,278,Eric Garcetti,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,281,Michael Antonovich,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,282,Mike Bonin,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,1820,James Butts,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,283,Diane DuBois,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,284,Jacquelyn Dupont-Walker,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,285,Don Knabe,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,286,Paul Krekorian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,287,Sheila Kuehl,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,288,Ara J. Najarian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15865,290,Hilda L. Solis,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,279,Mark Ridley-Thomas,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,280,John Fasana,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,278,Eric Garcetti,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,281,Michael Antonovich,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,282,Mike Bonin,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,1820,James Butts,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,283,Diane DuBois,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,284,Jacquelyn Dupont-Walker,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,285,Don Knabe,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,286,Paul Krekorian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,287,Sheila Kuehl,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,288,Ara J. Najarian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,290,Hilda L. Solis,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,1821,Carrie Bowen,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15883,1848,Phil Washington,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,279,Mark Ridley-Thomas,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,280,John Fasana,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,278,Eric Garcetti,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,281,Michael Antonovich,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,282,Mike Bonin,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,1820,James Butts,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,283,Diane DuBois,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,284,Jacquelyn Dupont-Walker,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,285,Don Knabe,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,286,Paul Krekorian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,287,Sheila Kuehl,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,288,Ara J. Najarian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,290,Hilda L. Solis,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,1821,Carrie Bowen,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15892,1848,Phil Washington,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,279,Mark Ridley-Thomas,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,280,John Fasana,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,278,Eric Garcetti,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,281,Michael Antonovich,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,282,Mike Bonin,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,1820,James Butts,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,283,Diane DuBois,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,284,Jacquelyn Dupont-Walker,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,285,Don Knabe,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,286,Paul Krekorian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,287,Sheila Kuehl,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,288,Ara J. Najarian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,290,Hilda L. Solis,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,1821,Carrie Bowen,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15902,1848,Phil Washington,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,279,Mark Ridley-Thomas,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,280,John Fasana,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,278,Eric Garcetti,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,281,Michael Antonovich,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,282,Mike Bonin,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,1820,James Butts,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,283,Diane DuBois,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,284,Jacquelyn Dupont-Walker,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,285,Don Knabe,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,286,Paul Krekorian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,287,Sheila Kuehl,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,288,Ara J. Najarian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,290,Hilda L. Solis,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,1821,Carrie Bowen,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15943,1848,Phil Washington,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,279,Mark Ridley-Thomas,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,280,John Fasana,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,278,Eric Garcetti,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,281,Michael Antonovich,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,282,Mike Bonin,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,1820,James Butts,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,283,Diane DuBois,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,284,Jacquelyn Dupont-Walker,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,285,Don Knabe,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,286,Paul Krekorian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,287,Sheila Kuehl,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,288,Ara J. Najarian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,290,Hilda L. Solis,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,1821,Carrie Bowen,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,15952,1848,Phil Washington,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,279,Mark Ridley-Thomas,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,280,John Fasana,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,278,Eric Garcetti,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,281,Michael Antonovich,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,282,Mike Bonin,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,1820,James Butts,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,283,Diane DuBois,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,284,Jacquelyn Dupont-Walker,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,285,Don Knabe,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,286,Paul Krekorian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,287,Sheila Kuehl,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,288,Ara J. Najarian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,290,Hilda L. Solis,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,1821,Carrie Bowen,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,1861,Shirley Choate,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41494,1848,Phil Washington,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,279,Mark Ridley-Thomas,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,280,John Fasana,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,278,Eric Garcetti,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,281,Michael Antonovich,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,282,Mike Bonin,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,1820,James Butts,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,283,Diane DuBois,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,284,Jacquelyn Dupont-Walker,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,285,Don Knabe,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,286,Paul Krekorian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,287,Sheila Kuehl,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,288,Ara J. Najarian,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,290,Hilda L. Solis,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,1821,Carrie Bowen,Present
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,1861,Shirley Choate,Absent
+1048,2015-12-03,Board of Directors - Regular Board Meeting,41495,1848,Phil Washington,Present
+1049,2015-11-19,Construction Committee,15712,285,Don Knabe,Present
+1049,2015-11-19,Construction Committee,15712,284,Jacquelyn Dupont-Walker,Present
+1049,2015-11-19,Construction Committee,15712,283,Diane DuBois,Present
+1049,2015-11-19,Construction Committee,15712,282,Mike Bonin,Absent
+1049,2015-11-19,Construction Committee,15712,288,Ara J. Najarian,Present
+1049,2015-11-19,Construction Committee,15712,1821,Carrie Bowen,Present
+1049,2015-11-19,Construction Committee,15712,1848,Phil Washington,Present
+1049,2015-11-19,Construction Committee,41477,285,Don Knabe,Present
+1049,2015-11-19,Construction Committee,41477,284,Jacquelyn Dupont-Walker,Present
+1049,2015-11-19,Construction Committee,41477,283,Diane DuBois,Present
+1049,2015-11-19,Construction Committee,41477,282,Mike Bonin,Absent
+1049,2015-11-19,Construction Committee,41477,288,Ara J. Najarian,Present
+1050,2015-11-19,Executive Management Committee,15773,279,Mark Ridley-Thomas,Present
+1050,2015-11-19,Executive Management Committee,15773,280,John Fasana,Present
+1050,2015-11-19,Executive Management Committee,15773,281,Michael Antonovich,Present
+1050,2015-11-19,Executive Management Committee,15773,278,Eric Garcetti,Present
+1050,2015-11-19,Executive Management Committee,15773,286,Paul Krekorian,Absent
+1050,2015-11-19,Executive Management Committee,15773,287,Sheila Kuehl,Present
+1050,2015-11-19,Executive Management Committee,15854,279,Mark Ridley-Thomas,Present
+1050,2015-11-19,Executive Management Committee,15854,280,John Fasana,Present
+1050,2015-11-19,Executive Management Committee,15854,281,Michael Antonovich,Present
+1050,2015-11-19,Executive Management Committee,15854,278,Eric Garcetti,Present
+1050,2015-11-19,Executive Management Committee,15854,286,Paul Krekorian,Absent
+1050,2015-11-19,Executive Management Committee,15854,287,Sheila Kuehl,Present
+1050,2015-11-19,Executive Management Committee,15854,1821,Carrie Bowen,Present
+1050,2015-11-19,Executive Management Committee,15854,1848,Phil Washington,Present
+1050,2015-11-19,Executive Management Committee,41485,279,Mark Ridley-Thomas,Present
+1050,2015-11-19,Executive Management Committee,41485,280,John Fasana,Present
+1050,2015-11-19,Executive Management Committee,41485,281,Michael Antonovich,Present
+1050,2015-11-19,Executive Management Committee,41485,278,Eric Garcetti,Absent
+1050,2015-11-19,Executive Management Committee,41485,286,Paul Krekorian,Absent
+1050,2015-11-19,Executive Management Committee,41485,287,Sheila Kuehl,Absent
+1050,2015-11-19,Executive Management Committee,41485,1821,Carrie Bowen,Absent
+1050,2015-11-19,Executive Management Committee,41485,1848,Phil Washington,Present
+1052,2015-11-18,Planning and Programming Committee,15609,282,Mike Bonin,Present
+1052,2015-11-18,Planning and Programming Committee,15609,287,Sheila Kuehl,Present
+1052,2015-11-18,Planning and Programming Committee,15609,1820,James Butts,Absent
+1052,2015-11-18,Planning and Programming Committee,15609,284,Jacquelyn Dupont-Walker,Present
+1052,2015-11-18,Planning and Programming Committee,15609,290,Hilda L. Solis,Present
+1053,2015-11-19,"System Safety, Security and Operations Committee",15761,280,John Fasana,Present
+1053,2015-11-19,"System Safety, Security and Operations Committee",15761,281,Michael Antonovich,Present
+1053,2015-11-19,"System Safety, Security and Operations Committee",15761,284,Jacquelyn Dupont-Walker,Present
+1053,2015-11-19,"System Safety, Security and Operations Committee",15761,285,Don Knabe,Absent
+1053,2015-11-19,"System Safety, Security and Operations Committee",15761,288,Ara J. Najarian,Present
+1053,2015-11-19,"System Safety, Security and Operations Committee",15761,1821,Carrie Bowen,Present
+1053,2015-11-19,"System Safety, Security and Operations Committee",15761,1848,Phil Washington,Present
+1053,2015-11-19,"System Safety, Security and Operations Committee",41482,280,John Fasana,Present
+1053,2015-11-19,"System Safety, Security and Operations Committee",41482,281,Michael Antonovich,Absent
+1053,2015-11-19,"System Safety, Security and Operations Committee",41482,284,Jacquelyn Dupont-Walker,Present
+1053,2015-11-19,"System Safety, Security and Operations Committee",41482,285,Don Knabe,Absent
+1053,2015-11-19,"System Safety, Security and Operations Committee",41482,288,Ara J. Najarian,Present
+1053,2015-11-19,"System Safety, Security and Operations Committee",41482,1821,Carrie Bowen,Present
+1053,2015-11-19,"System Safety, Security and Operations Committee",41482,1848,Phil Washington,Present
+1072,2015-09-17,Ad Hoc Transit Policing Oversight Committee,14817,1820,James Butts,Present
+1072,2015-09-17,Ad Hoc Transit Policing Oversight Committee,14817,281,Michael Antonovich,Present
+1072,2015-09-17,Ad Hoc Transit Policing Oversight Committee,14817,284,Jacquelyn Dupont-Walker,Present
+1072,2015-09-17,Ad Hoc Transit Policing Oversight Committee,14817,280,John Fasana,Present
+1072,2015-09-17,Ad Hoc Transit Policing Oversight Committee,14817,285,Don Knabe,Absent
+1072,2015-09-17,Ad Hoc Transit Policing Oversight Committee,14817,1821,Carrie Bowen,Absent
+1072,2015-09-17,Ad Hoc Transit Policing Oversight Committee,14817,1848,Phil Washington,Present
+1075,2015-10-22,LA SAFE,15567,285,Don Knabe,Absent
+1075,2015-10-22,LA SAFE,15567,286,Paul Krekorian,Present
+1075,2015-10-22,LA SAFE,15567,284,Jacquelyn Dupont-Walker,Present
+1075,2015-10-22,LA SAFE,15567,287,Sheila Kuehl,Absent
+1075,2015-10-22,LA SAFE,15567,282,Mike Bonin,Present
+1075,2015-10-22,LA SAFE,15567,281,Michael Antonovich,Present
+1075,2015-10-22,LA SAFE,15567,279,Mark Ridley-Thomas,Present
+1075,2015-10-22,LA SAFE,15567,278,Eric Garcetti,Absent
+1075,2015-10-22,LA SAFE,15567,280,John Fasana,Absent
+1075,2015-10-22,LA SAFE,15567,1820,James Butts,Absent
+1075,2015-10-22,LA SAFE,15567,290,Hilda L. Solis,Present
+1075,2015-10-22,LA SAFE,15567,288,Ara J. Najarian,Present
+1075,2015-10-22,LA SAFE,15567,283,Diane DuBois,Absent
+1075,2015-10-22,LA SAFE,15567,1821,Carrie Bowen,Absent
+1075,2015-10-22,LA SAFE,15567,1848,Phil Washington,Present
+1075,2015-10-22,LA SAFE,15568,285,Don Knabe,Absent
+1075,2015-10-22,LA SAFE,15568,286,Paul Krekorian,Present
+1075,2015-10-22,LA SAFE,15568,284,Jacquelyn Dupont-Walker,Present
+1075,2015-10-22,LA SAFE,15568,287,Sheila Kuehl,Absent
+1075,2015-10-22,LA SAFE,15568,282,Mike Bonin,Present
+1075,2015-10-22,LA SAFE,15568,281,Michael Antonovich,Present
+1075,2015-10-22,LA SAFE,15568,279,Mark Ridley-Thomas,Present
+1075,2015-10-22,LA SAFE,15568,278,Eric Garcetti,Absent
+1075,2015-10-22,LA SAFE,15568,280,John Fasana,Present
+1075,2015-10-22,LA SAFE,15568,1820,James Butts,Absent
+1075,2015-10-22,LA SAFE,15568,290,Hilda L. Solis,Present
+1075,2015-10-22,LA SAFE,15568,288,Ara J. Najarian,Present
+1075,2015-10-22,LA SAFE,15568,283,Diane DuBois,Absent
+1075,2015-10-22,LA SAFE,15568,1821,Carrie Bowen,Absent
+1075,2015-10-22,LA SAFE,15568,1848,Phil Washington,Present
+1106,2015-12-03,Crenshaw Project Corporation,15859,279,Mark Ridley-Thomas,Present
+1106,2015-12-03,Crenshaw Project Corporation,15859,280,John Fasana,Present
+1106,2015-12-03,Crenshaw Project Corporation,15859,278,Eric Garcetti,Absent
+1106,2015-12-03,Crenshaw Project Corporation,15859,281,Michael Antonovich,Absent
+1106,2015-12-03,Crenshaw Project Corporation,15859,282,Mike Bonin,Present
+1106,2015-12-03,Crenshaw Project Corporation,15859,1820,James Butts,Present
+1106,2015-12-03,Crenshaw Project Corporation,15859,283,Diane DuBois,Present
+1106,2015-12-03,Crenshaw Project Corporation,15859,284,Jacquelyn Dupont-Walker,Absent
+1106,2015-12-03,Crenshaw Project Corporation,15859,285,Don Knabe,Absent
+1106,2015-12-03,Crenshaw Project Corporation,15859,286,Paul Krekorian,Present
+1106,2015-12-03,Crenshaw Project Corporation,15859,287,Sheila Kuehl,Absent
+1106,2015-12-03,Crenshaw Project Corporation,15859,288,Ara J. Najarian,Present
+1106,2015-12-03,Crenshaw Project Corporation,15859,290,Hilda L. Solis,Present
+1106,2015-12-03,Crenshaw Project Corporation,15859,1821,Carrie Bowen,Present
+1106,2015-12-03,Crenshaw Project Corporation,15859,1861,Shirley Choate,Present
+1106,2015-12-03,Crenshaw Project Corporation,15859,1848,Phil Washington,Present
+919,2015-06-17,Planning and Programming Committee,12894,288,Ara J. Najarian,Present
+919,2015-06-17,Planning and Programming Committee,12894,283,Diane DuBois,Present
+919,2015-06-17,Planning and Programming Committee,12894,1848,Phil Washington,Present
+919,2015-06-17,Planning and Programming Committee,12894,282,Mike Bonin,Present
+919,2015-06-17,Planning and Programming Committee,12894,284,Jacquelyn Dupont-Walker,Present
+919,2015-06-17,Planning and Programming Committee,12894,287,Sheila Kuehl,Present
+919,2015-06-17,Planning and Programming Committee,12894,1861,Shirley Choate,Present
+920,2015-06-18,Construction Committee,13162,1820,James Butts,Absent
+920,2015-06-18,Construction Committee,13162,281,Michael Antonovich,Present
+920,2015-06-18,Construction Committee,13162,1848,Phil Washington,Present
+920,2015-06-18,Construction Committee,13162,285,Don Knabe,Present
+920,2015-06-18,Construction Committee,13162,284,Jacquelyn Dupont-Walker,Present
+920,2015-06-18,Construction Committee,13162,288,Ara J. Najarian,Present
+920,2015-06-18,Construction Committee,13162,1821,Carrie Bowen,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,281,Michael Antonovich,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,286,Paul Krekorian,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,1820,James Butts,Absent
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,287,Sheila Kuehl,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,282,Mike Bonin,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,280,John Fasana,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,1848,Phil Washington,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,278,Eric Garcetti,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,279,Mark Ridley-Thomas,Absent
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,283,Diane DuBois,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,284,Jacquelyn Dupont-Walker,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,290,Hilda L. Solis,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,285,Don Knabe,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,288,Ara J. Najarian,Absent
+933,2015-06-25,Board of Directors - Regular Board Meeting,13632,1861,Shirley Choate,Absent
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,281,Michael Antonovich,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,286,Paul Krekorian,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,1820,James Butts,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,287,Sheila Kuehl,Absent
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,282,Mike Bonin,Absent
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,280,John Fasana,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,1848,Phil Washington,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,278,Eric Garcetti,Absent
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,279,Mark Ridley-Thomas,Absent
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,283,Diane DuBois,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,284,Jacquelyn Dupont-Walker,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,290,Hilda L. Solis,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,285,Don Knabe,Present
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,288,Ara J. Najarian,Absent
+933,2015-06-25,Board of Directors - Regular Board Meeting,13639,1861,Shirley Choate,Present
+941,2015-06-18,"System Safety, Security and Operations Committee",12908,290,Hilda L. Solis,Present
+941,2015-06-18,"System Safety, Security and Operations Committee",12908,285,Don Knabe,Present
+941,2015-06-18,"System Safety, Security and Operations Committee",12908,1848,Phil Washington,Present
+941,2015-06-18,"System Safety, Security and Operations Committee",12908,280,John Fasana,Absent
+941,2015-06-18,"System Safety, Security and Operations Committee",12908,281,Michael Antonovich,Absent
+941,2015-06-18,"System Safety, Security and Operations Committee",12908,284,Jacquelyn Dupont-Walker,Present
+941,2015-06-18,"System Safety, Security and Operations Committee",12908,1861,Shirley Choate,Present
+941,2015-06-18,"System Safety, Security and Operations Committee",12959,290,Hilda L. Solis,Present
+941,2015-06-18,"System Safety, Security and Operations Committee",12959,285,Don Knabe,Present
+941,2015-06-18,"System Safety, Security and Operations Committee",12959,1848,Phil Washington,Present
+941,2015-06-18,"System Safety, Security and Operations Committee",12959,280,John Fasana,Absent
+941,2015-06-18,"System Safety, Security and Operations Committee",12959,281,Michael Antonovich,Present
+941,2015-06-18,"System Safety, Security and Operations Committee",12959,284,Jacquelyn Dupont-Walker,Present
+941,2015-06-18,"System Safety, Security and Operations Committee",12959,1861,Shirley Choate,Present
+942,2015-06-18,Executive Management Committee,12920,278,Eric Garcetti,Present
+942,2015-06-18,Executive Management Committee,12920,279,Mark Ridley-Thomas,Present
+942,2015-06-18,Executive Management Committee,12920,280,John Fasana,Absent
+942,2015-06-18,Executive Management Committee,12920,286,Paul Krekorian,Absent
+942,2015-06-18,Executive Management Committee,12920,287,Sheila Kuehl,Absent
+942,2015-06-18,Executive Management Committee,12920,1821,Carrie Bowen,Present
+942,2015-06-18,Executive Management Committee,12920,1848,Phil Washington,Present
+942,2015-06-18,Executive Management Committee,12920,284,Jacquelyn Dupont-Walker,Present
+942,2015-06-18,Executive Management Committee,12925,278,Eric Garcetti,Present
+942,2015-06-18,Executive Management Committee,12925,279,Mark Ridley-Thomas,Present
+942,2015-06-18,Executive Management Committee,12925,280,John Fasana,Absent
+942,2015-06-18,Executive Management Committee,12925,286,Paul Krekorian,Present
+942,2015-06-18,Executive Management Committee,12925,287,Sheila Kuehl,Absent
+942,2015-06-18,Executive Management Committee,12925,1821,Carrie Bowen,Present
+942,2015-06-18,Executive Management Committee,12925,1848,Phil Washington,Present
+942,2015-06-18,Executive Management Committee,12968,278,Eric Garcetti,Present
+942,2015-06-18,Executive Management Committee,12968,279,Mark Ridley-Thomas,Present
+942,2015-06-18,Executive Management Committee,12968,280,John Fasana,Absent
+942,2015-06-18,Executive Management Committee,12968,286,Paul Krekorian,Present
+942,2015-06-18,Executive Management Committee,12968,287,Sheila Kuehl,Absent
+942,2015-06-18,Executive Management Committee,12968,1821,Carrie Bowen,Present
+942,2015-06-18,Executive Management Committee,12968,1848,Phil Washington,Present
+942,2015-06-18,Executive Management Committee,12968,284,Jacquelyn Dupont-Walker,Present
+943,2015-06-17,"Finance, Budget and Audit Committee",13040,1820,James Butts,Present
+943,2015-06-17,"Finance, Budget and Audit Committee",13040,283,Diane DuBois,Present
+943,2015-06-17,"Finance, Budget and Audit Committee",13040,1848,Phil Washington,Present
+943,2015-06-17,"Finance, Budget and Audit Committee",13040,279,Mark Ridley-Thomas,Absent
+943,2015-06-17,"Finance, Budget and Audit Committee",13040,286,Paul Krekorian,Present
+943,2015-06-17,"Finance, Budget and Audit Committee",13040,290,Hilda L. Solis,Present
+943,2015-06-17,"Finance, Budget and Audit Committee",13040,1861,Shirley Choate,Present
+943,2015-06-17,"Finance, Budget and Audit Committee",13174,1820,James Butts,Absent
+943,2015-06-17,"Finance, Budget and Audit Committee",13174,283,Diane DuBois,Present
+943,2015-06-17,"Finance, Budget and Audit Committee",13174,1848,Phil Washington,Present
+943,2015-06-17,"Finance, Budget and Audit Committee",13174,279,Mark Ridley-Thomas,Absent
+943,2015-06-17,"Finance, Budget and Audit Committee",13174,286,Paul Krekorian,Present
+943,2015-06-17,"Finance, Budget and Audit Committee",13174,290,Hilda L. Solis,Present
+943,2015-06-17,"Finance, Budget and Audit Committee",13174,1821,Carrie Bowen,Absent
+943,2015-06-17,"Finance, Budget and Audit Committee",13174,1861,Shirley Choate,Present
+944,2015-07-15,Planning and Programming Committee,13524,282,Mike Bonin,Present
+944,2015-07-15,Planning and Programming Committee,13524,287,Sheila Kuehl,Absent
+944,2015-07-15,Planning and Programming Committee,13524,1820,James Butts,Present
+944,2015-07-15,Planning and Programming Committee,13524,284,Jacquelyn Dupont-Walker,Present
+944,2015-07-15,Planning and Programming Committee,13524,290,Hilda L. Solis,Present
+944,2015-07-15,Planning and Programming Committee,13524,1821,Carrie Bowen,Present
+944,2015-07-15,Planning and Programming Committee,13524,1861,Shirley Choate,Present
+944,2015-07-15,Planning and Programming Committee,13524,1848,Phil Washington,Present
+944,2015-07-15,Planning and Programming Committee,13817,282,Mike Bonin,Present
+944,2015-07-15,Planning and Programming Committee,13817,287,Sheila Kuehl,Present
+944,2015-07-15,Planning and Programming Committee,13817,1820,James Butts,Present
+944,2015-07-15,Planning and Programming Committee,13817,284,Jacquelyn Dupont-Walker,Present
+944,2015-07-15,Planning and Programming Committee,13817,290,Hilda L. Solis,Present
+944,2015-07-15,Planning and Programming Committee,13817,1821,Carrie Bowen,Present
+944,2015-07-15,Planning and Programming Committee,13817,1861,Shirley Choate,Present
+944,2015-07-15,Planning and Programming Committee,13817,1848,Phil Washington,Present
+944,2015-07-15,Planning and Programming Committee,14085,282,Mike Bonin,Present
+944,2015-07-15,Planning and Programming Committee,14085,287,Sheila Kuehl,Absent
+944,2015-07-15,Planning and Programming Committee,14085,1820,James Butts,Present
+944,2015-07-15,Planning and Programming Committee,14085,284,Jacquelyn Dupont-Walker,Present
+944,2015-07-15,Planning and Programming Committee,14085,290,Hilda L. Solis,Absent
+944,2015-07-15,Planning and Programming Committee,14085,1821,Carrie Bowen,Present
+944,2015-07-15,Planning and Programming Committee,14085,1861,Shirley Choate,Absent
+944,2015-07-15,Planning and Programming Committee,14085,1848,Phil Washington,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13533,280,John Fasana,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13533,281,Michael Antonovich,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13533,284,Jacquelyn Dupont-Walker,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13533,285,Don Knabe,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13533,288,Ara J. Najarian,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13533,1821,Carrie Bowen,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13533,1861,Shirley Choate,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13533,1848,Phil Washington,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13692,280,John Fasana,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13692,281,Michael Antonovich,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13692,284,Jacquelyn Dupont-Walker,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13692,285,Don Knabe,Absent
+946,2015-07-16,"System Safety, Security and Operations Committee",13692,288,Ara J. Najarian,Absent
+946,2015-07-16,"System Safety, Security and Operations Committee",13692,1861,Shirley Choate,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13692,1848,Phil Washington,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13719,280,John Fasana,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13719,281,Michael Antonovich,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13719,284,Jacquelyn Dupont-Walker,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13719,285,Don Knabe,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13719,288,Ara J. Najarian,Absent
+946,2015-07-16,"System Safety, Security and Operations Committee",13719,1821,Carrie Bowen,Absent
+946,2015-07-16,"System Safety, Security and Operations Committee",13719,1861,Shirley Choate,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13719,1848,Phil Washington,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13828,280,John Fasana,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13828,281,Michael Antonovich,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13828,284,Jacquelyn Dupont-Walker,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13828,285,Don Knabe,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13828,288,Ara J. Najarian,Absent
+946,2015-07-16,"System Safety, Security and Operations Committee",13828,1861,Shirley Choate,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13828,1848,Phil Washington,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13967,280,John Fasana,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13967,281,Michael Antonovich,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13967,284,Jacquelyn Dupont-Walker,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13967,285,Don Knabe,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13967,288,Ara J. Najarian,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13967,1821,Carrie Bowen,Absent
+946,2015-07-16,"System Safety, Security and Operations Committee",13967,1861,Shirley Choate,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13967,1848,Phil Washington,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13968,280,John Fasana,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13968,281,Michael Antonovich,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13968,284,Jacquelyn Dupont-Walker,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13968,285,Don Knabe,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13968,288,Ara J. Najarian,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13968,1821,Carrie Bowen,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13968,1861,Shirley Choate,Present
+946,2015-07-16,"System Safety, Security and Operations Committee",13968,1848,Phil Washington,Present
+948,2015-07-16,Executive Management Committee,13540,279,Mark Ridley-Thomas,Present
+948,2015-07-16,Executive Management Committee,13540,280,John Fasana,Present
+948,2015-07-16,Executive Management Committee,13540,281,Michael Antonovich,Present
+948,2015-07-16,Executive Management Committee,13540,278,Eric Garcetti,Absent
+948,2015-07-16,Executive Management Committee,13540,286,Paul Krekorian,Present
+948,2015-07-16,Executive Management Committee,13540,287,Sheila Kuehl,Present
+948,2015-07-16,Executive Management Committee,13540,1848,Phil Washington,Present
+948,2015-07-16,Executive Management Committee,13540,1821,Carrie Bowen,Present
+948,2015-07-16,Executive Management Committee,13540,1861,Shirley Choate,Present
+948,2015-07-16,Executive Management Committee,14161,279,Mark Ridley-Thomas,Present
+948,2015-07-16,Executive Management Committee,14161,280,John Fasana,Present
+948,2015-07-16,Executive Management Committee,14161,281,Michael Antonovich,Present
+948,2015-07-16,Executive Management Committee,14161,278,Eric Garcetti,Absent
+948,2015-07-16,Executive Management Committee,14161,286,Paul Krekorian,Present
+948,2015-07-16,Executive Management Committee,14161,287,Sheila Kuehl,Present
+948,2015-07-16,Executive Management Committee,14161,1821,Carrie Bowen,Present
+948,2015-07-16,Executive Management Committee,14161,1861,Shirley Choate,Present
+948,2015-07-16,Executive Management Committee,14161,1848,Phil Washington,Present
+948,2015-07-16,Executive Management Committee,14162,279,Mark Ridley-Thomas,Present
+948,2015-07-16,Executive Management Committee,14162,280,John Fasana,Present
+948,2015-07-16,Executive Management Committee,14162,281,Michael Antonovich,Present
+948,2015-07-16,Executive Management Committee,14162,278,Eric Garcetti,Present
+948,2015-07-16,Executive Management Committee,14162,286,Paul Krekorian,Present
+948,2015-07-16,Executive Management Committee,14162,287,Sheila Kuehl,Present
+948,2015-07-16,Executive Management Committee,14162,1821,Carrie Bowen,Present
+948,2015-07-16,Executive Management Committee,14162,1861,Shirley Choate,Present
+948,2015-07-16,Executive Management Committee,14162,1848,Phil Washington,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,279,Mark Ridley-Thomas,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,280,John Fasana,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,278,Eric Garcetti,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,281,Michael Antonovich,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,282,Mike Bonin,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,1820,James Butts,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,283,Diane DuBois,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,284,Jacquelyn Dupont-Walker,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,285,Don Knabe,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,286,Paul Krekorian,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,287,Sheila Kuehl,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,288,Ara J. Najarian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,290,Hilda L. Solis,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,1821,Carrie Bowen,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,1861,Shirley Choate,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,13926,1848,Phil Washington,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,285,Don Knabe,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,286,Paul Krekorian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,284,Jacquelyn Dupont-Walker,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,287,Sheila Kuehl,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,282,Mike Bonin,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,281,Michael Antonovich,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,1848,Phil Washington,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,279,Mark Ridley-Thomas,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,278,Eric Garcetti,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,280,John Fasana,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,1820,James Butts,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,290,Hilda L. Solis,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,288,Ara J. Najarian,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,283,Diane DuBois,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14066,1821,Carrie Bowen,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,285,Don Knabe,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,286,Paul Krekorian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,284,Jacquelyn Dupont-Walker,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,287,Sheila Kuehl,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,282,Mike Bonin,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,281,Michael Antonovich,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,1848,Phil Washington,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,279,Mark Ridley-Thomas,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,278,Eric Garcetti,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,280,John Fasana,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,1820,James Butts,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,290,Hilda L. Solis,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,288,Ara J. Najarian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,283,Diane DuBois,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14139,1821,Carrie Bowen,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,285,Don Knabe,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,286,Paul Krekorian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,284,Jacquelyn Dupont-Walker,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,287,Sheila Kuehl,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,282,Mike Bonin,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,281,Michael Antonovich,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,1848,Phil Washington,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,279,Mark Ridley-Thomas,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,278,Eric Garcetti,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,280,John Fasana,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,1820,James Butts,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,290,Hilda L. Solis,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,288,Ara J. Najarian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,283,Diane DuBois,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14156,1821,Carrie Bowen,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,285,Don Knabe,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,286,Paul Krekorian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,284,Jacquelyn Dupont-Walker,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,287,Sheila Kuehl,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,282,Mike Bonin,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,281,Michael Antonovich,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,1848,Phil Washington,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,279,Mark Ridley-Thomas,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,278,Eric Garcetti,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,280,John Fasana,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,1820,James Butts,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,290,Hilda L. Solis,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,288,Ara J. Najarian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,283,Diane DuBois,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14170,1821,Carrie Bowen,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,285,Don Knabe,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,286,Paul Krekorian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,284,Jacquelyn Dupont-Walker,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,287,Sheila Kuehl,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,282,Mike Bonin,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,281,Michael Antonovich,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,1848,Phil Washington,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,279,Mark Ridley-Thomas,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,278,Eric Garcetti,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,280,John Fasana,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,1820,James Butts,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,290,Hilda L. Solis,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,288,Ara J. Najarian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,283,Diane DuBois,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14251,1821,Carrie Bowen,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,285,Don Knabe,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,286,Paul Krekorian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,284,Jacquelyn Dupont-Walker,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,287,Sheila Kuehl,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,282,Mike Bonin,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,281,Michael Antonovich,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,1848,Phil Washington,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,279,Mark Ridley-Thomas,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,278,Eric Garcetti,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,280,John Fasana,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,1820,James Butts,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,290,Hilda L. Solis,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,288,Ara J. Najarian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,283,Diane DuBois,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14252,1821,Carrie Bowen,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,285,Don Knabe,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,286,Paul Krekorian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,284,Jacquelyn Dupont-Walker,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,287,Sheila Kuehl,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,282,Mike Bonin,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,281,Michael Antonovich,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,1848,Phil Washington,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,279,Mark Ridley-Thomas,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,278,Eric Garcetti,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,280,John Fasana,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,1820,James Butts,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,290,Hilda L. Solis,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,288,Ara J. Najarian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,283,Diane DuBois,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14254,1821,Carrie Bowen,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,285,Don Knabe,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,286,Paul Krekorian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,284,Jacquelyn Dupont-Walker,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,287,Sheila Kuehl,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,282,Mike Bonin,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,281,Michael Antonovich,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,1848,Phil Washington,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,279,Mark Ridley-Thomas,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,278,Eric Garcetti,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,280,John Fasana,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,1820,James Butts,Absent
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,290,Hilda L. Solis,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,288,Ara J. Najarian,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,283,Diane DuBois,Present
+949,2015-07-23,Board of Directors - Regular Board Meeting,14255,1821,Carrie Bowen,Present
+950,2015-07-16,Construction Committee,13546,285,Don Knabe,Present
+950,2015-07-16,Construction Committee,13546,284,Jacquelyn Dupont-Walker,Present
+950,2015-07-16,Construction Committee,13546,283,Diane DuBois,Present
+950,2015-07-16,Construction Committee,13546,282,Mike Bonin,Present
+950,2015-07-16,Construction Committee,13546,288,Ara J. Najarian,Present
+950,2015-07-16,Construction Committee,13546,1821,Carrie Bowen,Present
+950,2015-07-16,Construction Committee,13546,1861,Shirley Choate,Present
+950,2015-07-16,Construction Committee,13546,1848,Phil Washington,Present
+950,2015-07-16,Construction Committee,14040,285,Don Knabe,Present
+950,2015-07-16,Construction Committee,14040,284,Jacquelyn Dupont-Walker,Present
+950,2015-07-16,Construction Committee,14040,283,Diane DuBois,Present
+950,2015-07-16,Construction Committee,14040,282,Mike Bonin,Present
+950,2015-07-16,Construction Committee,14040,288,Ara J. Najarian,Present
+950,2015-07-16,Construction Committee,14040,1821,Carrie Bowen,Absent
+950,2015-07-16,Construction Committee,14040,1861,Shirley Choate,Present
+950,2015-07-16,Construction Committee,14040,1848,Phil Washington,Present
+950,2015-07-16,Construction Committee,14041,285,Don Knabe,Present
+950,2015-07-16,Construction Committee,14041,284,Jacquelyn Dupont-Walker,Present
+950,2015-07-16,Construction Committee,14041,283,Diane DuBois,Present
+950,2015-07-16,Construction Committee,14041,282,Mike Bonin,Present
+950,2015-07-16,Construction Committee,14041,288,Ara J. Najarian,Present
+950,2015-07-16,Construction Committee,14041,1821,Carrie Bowen,Present
+950,2015-07-16,Construction Committee,14041,1861,Shirley Choate,Present
+950,2015-07-16,Construction Committee,14041,1848,Phil Washington,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,279,Mark Ridley-Thomas,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,280,John Fasana,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,278,Eric Garcetti,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,281,Michael Antonovich,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,282,Mike Bonin,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,1820,James Butts,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,283,Diane DuBois,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,284,Jacquelyn Dupont-Walker,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,285,Don Knabe,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,286,Paul Krekorian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,287,Sheila Kuehl,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,288,Ara J. Najarian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,290,Hilda L. Solis,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,1821,Carrie Bowen,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,1861,Shirley Choate,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14922,1848,Phil Washington,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,279,Mark Ridley-Thomas,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,280,John Fasana,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,278,Eric Garcetti,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,281,Michael Antonovich,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,282,Mike Bonin,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,1820,James Butts,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,283,Diane DuBois,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,284,Jacquelyn Dupont-Walker,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,285,Don Knabe,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,286,Paul Krekorian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,287,Sheila Kuehl,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,288,Ara J. Najarian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,290,Hilda L. Solis,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,1821,Carrie Bowen,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14971,1848,Phil Washington,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,279,Mark Ridley-Thomas,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,280,John Fasana,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,278,Eric Garcetti,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,281,Michael Antonovich,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,282,Mike Bonin,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,1820,James Butts,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,283,Diane DuBois,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,284,Jacquelyn Dupont-Walker,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,285,Don Knabe,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,286,Paul Krekorian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,287,Sheila Kuehl,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,288,Ara J. Najarian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,290,Hilda L. Solis,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,1821,Carrie Bowen,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,14972,1848,Phil Washington,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,279,Mark Ridley-Thomas,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,280,John Fasana,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,278,Eric Garcetti,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,281,Michael Antonovich,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,282,Mike Bonin,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,1820,James Butts,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,283,Diane DuBois,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,284,Jacquelyn Dupont-Walker,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,285,Don Knabe,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,286,Paul Krekorian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,287,Sheila Kuehl,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,288,Ara J. Najarian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,290,Hilda L. Solis,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,1821,Carrie Bowen,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15031,1848,Phil Washington,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,279,Mark Ridley-Thomas,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,280,John Fasana,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,278,Eric Garcetti,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,281,Michael Antonovich,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,282,Mike Bonin,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,1820,James Butts,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,283,Diane DuBois,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,284,Jacquelyn Dupont-Walker,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,285,Don Knabe,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,286,Paul Krekorian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,287,Sheila Kuehl,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,288,Ara J. Najarian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,290,Hilda L. Solis,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,1821,Carrie Bowen,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15032,1848,Phil Washington,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,279,Mark Ridley-Thomas,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,280,John Fasana,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,278,Eric Garcetti,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,281,Michael Antonovich,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,282,Mike Bonin,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,1820,James Butts,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,283,Diane DuBois,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,284,Jacquelyn Dupont-Walker,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,285,Don Knabe,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,286,Paul Krekorian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,287,Sheila Kuehl,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,288,Ara J. Najarian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,290,Hilda L. Solis,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,1821,Carrie Bowen,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,1861,Shirley Choate,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15076,1848,Phil Washington,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,279,Mark Ridley-Thomas,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,280,John Fasana,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,278,Eric Garcetti,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,281,Michael Antonovich,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,282,Mike Bonin,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,1820,James Butts,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,283,Diane DuBois,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,284,Jacquelyn Dupont-Walker,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,285,Don Knabe,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,286,Paul Krekorian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,287,Sheila Kuehl,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,288,Ara J. Najarian,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,290,Hilda L. Solis,Absent
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,1821,Carrie Bowen,Present
+951,2015-09-24,Board of Directors - Regular Board Meeting,15084,1848,Phil Washington,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14767,280,John Fasana,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14767,281,Michael Antonovich,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14767,284,Jacquelyn Dupont-Walker,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14767,285,Don Knabe,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14767,288,Ara J. Najarian,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14767,1821,Carrie Bowen,Absent
+952,2015-09-17,"System Safety, Security and Operations Committee",14767,1848,Phil Washington,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14832,280,John Fasana,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14832,281,Michael Antonovich,Absent
+952,2015-09-17,"System Safety, Security and Operations Committee",14832,284,Jacquelyn Dupont-Walker,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14832,285,Don Knabe,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14832,288,Ara J. Najarian,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14832,1821,Carrie Bowen,Absent
+952,2015-09-17,"System Safety, Security and Operations Committee",14832,1848,Phil Washington,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14944,280,John Fasana,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14944,281,Michael Antonovich,Absent
+952,2015-09-17,"System Safety, Security and Operations Committee",14944,284,Jacquelyn Dupont-Walker,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14944,285,Don Knabe,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14944,288,Ara J. Najarian,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14944,1821,Carrie Bowen,Present
+952,2015-09-17,"System Safety, Security and Operations Committee",14944,1861,Shirley Choate,Absent
+952,2015-09-17,"System Safety, Security and Operations Committee",14944,1848,Phil Washington,Present
+953,2015-09-16,Planning and Programming Committee,14772,282,Mike Bonin,Present
+953,2015-09-16,Planning and Programming Committee,14772,287,Sheila Kuehl,Present
+953,2015-09-16,Planning and Programming Committee,14772,1820,James Butts,Present
+953,2015-09-16,Planning and Programming Committee,14772,284,Jacquelyn Dupont-Walker,Present
+953,2015-09-16,Planning and Programming Committee,14772,290,Hilda L. Solis,Present
+953,2015-09-16,Planning and Programming Committee,14772,1821,Carrie Bowen,Present
+953,2015-09-16,Planning and Programming Committee,14772,1861,Shirley Choate,Absent
+953,2015-09-16,Planning and Programming Committee,14772,1848,Phil Washington,Present
+953,2015-09-16,Planning and Programming Committee,14772,283,Diane DuBois,Present
+953,2015-09-16,Planning and Programming Committee,15023,282,Mike Bonin,Present
+953,2015-09-16,Planning and Programming Committee,15023,287,Sheila Kuehl,Present
+953,2015-09-16,Planning and Programming Committee,15023,1820,James Butts,Present
+953,2015-09-16,Planning and Programming Committee,15023,284,Jacquelyn Dupont-Walker,Present
+953,2015-09-16,Planning and Programming Committee,15023,290,Hilda L. Solis,Present
+953,2015-09-16,Planning and Programming Committee,15023,1821,Carrie Bowen,Present
+953,2015-09-16,Planning and Programming Committee,15023,1861,Shirley Choate,Absent
+953,2015-09-16,Planning and Programming Committee,15023,1848,Phil Washington,Present
+953,2015-09-16,Planning and Programming Committee,15023,283,Diane DuBois,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14661,286,Paul Krekorian,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14661,1820,James Butts,Absent
+954,2015-09-16,"Finance, Budget and Audit Committee",14661,283,Diane DuBois,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14661,290,Hilda L. Solis,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14661,279,Mark Ridley-Thomas,Absent
+954,2015-09-16,"Finance, Budget and Audit Committee",14661,1821,Carrie Bowen,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14661,1861,Shirley Choate,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14661,1848,Phil Washington,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14683,286,Paul Krekorian,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14683,1820,James Butts,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14683,283,Diane DuBois,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14683,290,Hilda L. Solis,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14683,279,Mark Ridley-Thomas,Absent
+954,2015-09-16,"Finance, Budget and Audit Committee",14683,1821,Carrie Bowen,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",14683,1848,Phil Washington,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",15013,286,Paul Krekorian,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",15013,1820,James Butts,Absent
+954,2015-09-16,"Finance, Budget and Audit Committee",15013,283,Diane DuBois,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",15013,290,Hilda L. Solis,Present
+954,2015-09-16,"Finance, Budget and Audit Committee",15013,279,Mark Ridley-Thomas,Absent
+954,2015-09-16,"Finance, Budget and Audit Committee",15013,1821,Carrie Bowen,Absent
+954,2015-09-16,"Finance, Budget and Audit Committee",15013,1861,Shirley Choate,Absent
+954,2015-09-16,"Finance, Budget and Audit Committee",15013,1848,Phil Washington,Present
+955,2015-09-17,Executive Management Committee,14639,279,Mark Ridley-Thomas,Present
+955,2015-09-17,Executive Management Committee,14639,280,John Fasana,Present
+955,2015-09-17,Executive Management Committee,14639,281,Michael Antonovich,Absent
+955,2015-09-17,Executive Management Committee,14639,278,Eric Garcetti,Absent
+955,2015-09-17,Executive Management Committee,14639,286,Paul Krekorian,Present
+955,2015-09-17,Executive Management Committee,14639,287,Sheila Kuehl,Present
+955,2015-09-17,Executive Management Committee,14639,1848,Phil Washington,Present
+955,2015-09-17,Executive Management Committee,14639,1821,Carrie Bowen,Present
+955,2015-09-17,Executive Management Committee,14639,1861,Shirley Choate,Present
+955,2015-09-17,Executive Management Committee,14655,279,Mark Ridley-Thomas,Present
+955,2015-09-17,Executive Management Committee,14655,280,John Fasana,Present
+955,2015-09-17,Executive Management Committee,14655,281,Michael Antonovich,Absent
+955,2015-09-17,Executive Management Committee,14655,278,Eric Garcetti,Absent
+955,2015-09-17,Executive Management Committee,14655,286,Paul Krekorian,Present
+955,2015-09-17,Executive Management Committee,14655,287,Sheila Kuehl,Present
+955,2015-09-17,Executive Management Committee,14655,1821,Carrie Bowen,Present
+955,2015-09-17,Executive Management Committee,14655,1848,Phil Washington,Present
+955,2015-09-17,Executive Management Committee,14657,279,Mark Ridley-Thomas,Present
+955,2015-09-17,Executive Management Committee,14657,280,John Fasana,Present
+955,2015-09-17,Executive Management Committee,14657,281,Michael Antonovich,Absent
+955,2015-09-17,Executive Management Committee,14657,278,Eric Garcetti,Absent
+955,2015-09-17,Executive Management Committee,14657,286,Paul Krekorian,Present
+955,2015-09-17,Executive Management Committee,14657,287,Sheila Kuehl,Present
+955,2015-09-17,Executive Management Committee,14657,1821,Carrie Bowen,Absent
+955,2015-09-17,Executive Management Committee,14657,1848,Phil Washington,Present
+955,2015-09-17,Executive Management Committee,15438,279,Mark Ridley-Thomas,Present
+955,2015-09-17,Executive Management Committee,15438,280,John Fasana,Present
+955,2015-09-17,Executive Management Committee,15438,281,Michael Antonovich,Absent
+955,2015-09-17,Executive Management Committee,15438,278,Eric Garcetti,Absent
+955,2015-09-17,Executive Management Committee,15438,286,Paul Krekorian,Absent
+955,2015-09-17,Executive Management Committee,15438,287,Sheila Kuehl,Present
+955,2015-09-17,Executive Management Committee,15438,1821,Carrie Bowen,Absent
+955,2015-09-17,Executive Management Committee,15438,1861,Shirley Choate,Absent
+955,2015-09-17,Executive Management Committee,15438,1848,Phil Washington,Present
+956,2015-09-17,Construction Committee,14686,285,Don Knabe,Present
+956,2015-09-17,Construction Committee,14686,284,Jacquelyn Dupont-Walker,Present
+956,2015-09-17,Construction Committee,14686,283,Diane DuBois,Present
+956,2015-09-17,Construction Committee,14686,282,Mike Bonin,Absent
+956,2015-09-17,Construction Committee,14686,288,Ara J. Najarian,Present
+956,2015-09-17,Construction Committee,14686,1821,Carrie Bowen,Present
+956,2015-09-17,Construction Committee,14686,1861,Shirley Choate,Present
+956,2015-09-17,Construction Committee,14686,1848,Phil Washington,Present
+956,2015-09-17,Construction Committee,14728,285,Don Knabe,Present
+956,2015-09-17,Construction Committee,14728,284,Jacquelyn Dupont-Walker,Present
+956,2015-09-17,Construction Committee,14728,283,Diane DuBois,Present
+956,2015-09-17,Construction Committee,14728,282,Mike Bonin,Absent
+956,2015-09-17,Construction Committee,14728,288,Ara J. Najarian,Present
+956,2015-09-17,Construction Committee,14728,1821,Carrie Bowen,Present
+956,2015-09-17,Construction Committee,14728,1848,Phil Washington,Present
+956,2015-09-17,Construction Committee,14995,285,Don Knabe,Present
+956,2015-09-17,Construction Committee,14995,284,Jacquelyn Dupont-Walker,Present
+956,2015-09-17,Construction Committee,14995,283,Diane DuBois,Present
+956,2015-09-17,Construction Committee,14995,282,Mike Bonin,Absent
+956,2015-09-17,Construction Committee,14995,288,Ara J. Najarian,Present
+956,2015-09-17,Construction Committee,14995,1821,Carrie Bowen,Absent
+956,2015-09-17,Construction Committee,14995,1861,Shirley Choate,Absent
+956,2015-09-17,Construction Committee,14995,1848,Phil Washington,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,279,Mark Ridley-Thomas,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,280,John Fasana,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,278,Eric Garcetti,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,281,Michael Antonovich,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,282,Mike Bonin,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,1820,James Butts,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,283,Diane DuBois,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,284,Jacquelyn Dupont-Walker,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,285,Don Knabe,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,286,Paul Krekorian,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,287,Sheila Kuehl,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,288,Ara J. Najarian,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,15473,290,Hilda L. Solis,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,285,Don Knabe,Absent
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,286,Paul Krekorian,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,284,Jacquelyn Dupont-Walker,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,287,Sheila Kuehl,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,282,Mike Bonin,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,281,Michael Antonovich,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,279,Mark Ridley-Thomas,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,278,Eric Garcetti,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,280,John Fasana,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,1820,James Butts,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,290,Hilda L. Solis,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,288,Ara J. Najarian,Present
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,283,Diane DuBois,Absent
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,1821,Carrie Bowen,Absent
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,1861,Shirley Choate,Absent
+957,2015-10-22,Board of Directors - Regular Board Meeting,41473,1848,Phil Washington,Present
+961,2015-10-15,Executive Management Committee,15409,286,Paul Krekorian,Present
+961,2015-10-15,Executive Management Committee,15409,278,Eric Garcetti,Present
+961,2015-10-15,Executive Management Committee,15409,1848,Phil Washington,Present
+961,2015-10-15,Executive Management Committee,15409,279,Mark Ridley-Thomas,Present
+961,2015-10-15,Executive Management Committee,15409,280,John Fasana,Present
+961,2015-10-15,Executive Management Committee,15409,281,Michael Antonovich,Present
+961,2015-10-15,Executive Management Committee,15409,287,Sheila Kuehl,Present
+961,2015-10-15,Executive Management Committee,15409,1821,Carrie Bowen,Present
+961,2015-10-15,Executive Management Committee,15409,1861,Shirley Choate,Present
+961,2015-10-15,Executive Management Committee,41471,286,Paul Krekorian,Present
+961,2015-10-15,Executive Management Committee,41471,278,Eric Garcetti,Present
+961,2015-10-15,Executive Management Committee,41471,1848,Phil Washington,Present
+961,2015-10-15,Executive Management Committee,41471,279,Mark Ridley-Thomas,Present
+961,2015-10-15,Executive Management Committee,41471,280,John Fasana,Present
+961,2015-10-15,Executive Management Committee,41471,281,Michael Antonovich,Present
+961,2015-10-15,Executive Management Committee,41471,287,Sheila Kuehl,Present
+961,2015-10-15,Executive Management Committee,41471,1821,Carrie Bowen,Absent
+961,2015-10-15,Executive Management Committee,41471,1861,Shirley Choate,Present

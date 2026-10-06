@@ -1,0 +1,99 @@
+body_id,name,type,active,members
+138,Board of Directors - Regular Board Meeting,Primary Legislative Body,1,0
+139,"Finance, Budget and Audit Committee",Committee,1,0
+140,Planning and Programming Committee,Committee,1,0
+172,"System Safety, Security and Operations Committee",Committee,1,0
+173,Executive Management Committee,Committee,1,0
+174,Construction Committee,Committee,1,0
+175,Ad Hoc Congestion Reduction Committee,Committee,1,0
+176,Ad Hoc Sustainability Committee,Committee,1,0
+177,Ad Hoc Transit Policing Oversight Committee,Committee,1,0
+198,LA SAFE,LA SAFE,1,0
+199,Board of Directors - Special Board Meeting,Primary Legislative Body,1,0
+220,Crenshaw Project Corporation,Crenshaw Project Corporation,1,0
+221,Ad Hoc Regional Rail Committee,Committee,1,0
+222,Budget Public Hearing,Public Hearing,1,0
+223,Public Hearing for Silver Line All Door Boarding,Public Hearing,1,0
+224,"Ad Hoc Congestion, Highway and Roads Committee",Committee,1,0
+225,Fare Subsidy Program Public Hearing,Public Hearing,1,0
+226,Ad Hoc Customer Experience Committee,Committee,1,0
+227,TAP Public Hearing,Public Hearing,1,0
+230,"System Safety, Security and Operations Committee (SAP)",Committee (SAP),1,0
+231,Board of Directors - Regular Board Meeting (SAP),Primary Legislative Body (SAP),1,0
+232,Ad Hoc Congestion Reduction Committee (SAP),Committee (SAP),1,0
+233,"Ad Hoc Congestion, Highway and Roads Committee (SAP)",Committee (SAP),1,0
+234,Ad Hoc Customer Experience Committee (SAP),Committee (SAP),1,0
+235,Ad Hoc Regional Rail Committee (SAP),Committee (SAP),1,0
+236,Ad Hoc Sustainability Committee (SAP),Committee (SAP),1,0
+237,Ad Hoc Transit Policing Oversight Committee (SAP),Committee (SAP),1,0
+238,Construction Committee (SAP),Committee (SAP),1,0
+239,Executive Management Committee (SAP),Committee (SAP),1,0
+240,"Finance, Budget and Audit Committee (SAP)",Committee (SAP),1,0
+241,Planning and Programming Committee (SAP),Committee (SAP),1,0
+242,Board of Directors - Special Board Meeting (SAP),Primary Legislative Body (SAP),1,0
+243,Budget Public Hearing (SAP),Public Hearing (SAP),1,0
+244,LA SAFE (SAP),LA SAFE (SAP),1,0
+245,"Operations, Safety, and Customer Experience Committee",Committee,1,0
+246,"Operations, Safety, and Customer Experience Committee (SAP)",Committee (SAP),1,0
+247,Crenshaw Project Corporation (SAP),Crenshaw Project Corporation (SAP),1,0
+248,Measure M Independent Taxpayer Oversight Committee,Independent Taxpayer Oversight Committee,1,0
+250,Measure R Independent Taxpayer Oversight Committee,Independent Taxpayer Oversight Committee,1,0
+251,Independent Citizen's Advisory and Oversight Committee,Independent Taxpayer Oversight Committee,1,0
+252,Independent Citizen's Advisory and Oversight Committee (SAP),Independent Taxpayer Oversight Committee (SAP),1,0
+254,Measure M Independent Taxpayer Oversight Committee (SAP),Independent Taxpayer Oversight Committee (SAP),1,0
+255,Measure R Independent Taxpayer Oversight Committee (SAP),Independent Taxpayer Oversight Committee (SAP),1,0
+256,San Fernando Valley Service Council,Service Council,1,0
+257,South Bay Service Council,Service Council,1,0
+258,San Gabriel Valley Service Council,Service Council,1,0
+259,Westside/Central Service Council,Service Council,1,0
+260,Gateway Cities Service Council,Service Council,1,0
+263,Independent Citizens' Advisory and Oversight Committee - Public Hearing,ITOC Public Hearings,1,0
+264,Measure M Independent Taxpayer Oversight Committee - Public Hearing,ITOC Public Hearings,1,0
+265,Measure R Independent Taxpayer Oversight Committee - Public Hearing,ITOC Public Hearings,1,0
+266,Independent Citizens' Advisory and Oversight Committee - Public Hearing (SAP),ITOC Public Hearing (SAP),1,0
+267,Measure M Independent Taxpayer Oversight Committee - Public Hearing (SAP),ITOC Public Hearing (SAP),1,0
+268,Measure R Independent Taxpayer Oversight Committee - Public Hearing (SAP),ITOC Public Hearing (SAP),1,0
+269,Gateway Cities Service Council Public Hearing,Service Council Public Hearings,1,0
+270,San Fernando Valley Service Council Public Hearing,Service Council Public Hearings,1,0
+271,San Gabriel Valley Service Council Public Hearing,Service Council Public Hearings,1,0
+272,South Bay Service Council Public Hearing,Service Council Public Hearings,1,0
+273,Westside/Central Service Council Public Hearing,Service Council Public Hearings,1,0
+274,Service Councils - Meet and Confer,Service Council,1,0
+275,Service Councils - Budget Briefing,Service Council,1,0
+276,Service Councils - All-Region Public Hearing,Service Council Public Hearings,1,0
+277,Special Construction Committee,Committee,1,0
+278,Special Executive Management Committee,Committee,1,0
+279,"Special Finance, Budget and Audit Committee",Committee,1,0
+280,"Special Operations, Safety, and Customer Experience Committee",Committee,1,0
+281,Special Planning and Programming Committee,Committee,1,0
+282,Special Construction Committee (SAP),Committee (SAP),1,0
+283,Special Executive Management Committee (SAP),Committee (SAP),1,0
+285,"Special Finance, Budget and Audit Committee (SAP)",Committee (SAP),1,0
+286,"Special Operations, Safety, and Customer Experience Committee (SAP)",Committee (SAP),1,0
+287,Special Planning and Programming Committee (SAP),Committee (SAP),1,0
+288,Service Councils - Joint Meeting,Service Council,1,0
+290,Ad Hoc 2028 Olympic & Paralympic Games Committee,Committee,1,0
+291,Ad Hoc 2028 Olympic & Paralympic Games Committee (SAP),Committee (SAP),1,0
+292,Fare Capping and Fare Changes Public Hearing,Public Hearing,1,0
+293,Fare Capping and Fare Changes Public Hearing (SAP),Public Hearing (SAP),1,0
+296,Advanced Transit Vehicle Consortium,Crenshaw Project Corporation,1,0
+297,Advanced Transit Vehicle Consortium (SAP),Crenshaw Project Corporation (SAP),1,0
+298,Special Measure M Independent Taxpayer Oversight Committee,Independent Taxpayer Oversight Committee,1,0
+299,Special Measure M Independent Taxpayer Oversight Committee (SAP),Independent Taxpayer Oversight Committee (SAP),1,0
+300,Test - Live Regular Meeting Test,Primary Legislative Body,1,1
+301,Test - Live Committee Meeting Test,Committee,1,1
+302,Test - Live Regular Meeting Test (SAP),Primary Legislative Body (SAP),1,0
+303,Test - Live Committee Meeting Test (SAP),Committee (SAP),1,0
+304,PTSC-MTA Risk Management Authority,Crenshaw Project Corporation,1,0
+305,PTSC-MTA Risk Management Authority (SAP),Crenshaw Project Corporation (SAP),1,0
+306,Special Board Budget Workshop,Primary Legislative Body,1,0
+307,Special Board Budget Workshop (SAP),Primary Legislative Body (SAP),1,0
+308,Special Board Meeting/Ad Hoc 2028 Olympic & Paralympic Games Committee,Committee,1,0
+309,Special Board Meeting/Ad Hoc 2028 Olympic & Paralympic Games Committee (SAP),Committee (SAP),1,0
+310,Special Board Member Workshop,Primary Legislative Body,1,0
+312,Special Board Member Workshop (SAP),Primary Legislative Body (SAP),1,0
+313,2028 Olympic & Paralympic Games/Quarterly Special Board Meeting,Committee,1,0
+315,2028 Olympic & Paralympic Games/Quarterly Special Board Meeting (SAP),Committee (SAP),1,0
+320,Ad Hoc Board Composition Committee,Committee,1,0
+321,Ad Hoc Board Composition Committee (SAP),Committee (SAP),1,0
+323,Proposed Special Event Fare Public Hearing,Primary Legislative Body,1,0

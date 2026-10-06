@@ -1,0 +1,406 @@
+event_id,event_date,body,item_id,person_id,person,status
+2110,2022-01-19,Planning and Programming Committee,79930,284,Jacquelyn Dupont-Walker,Present
+2110,2022-01-19,Planning and Programming Committee,79930,288,Ara J. Najarian,Absent
+2110,2022-01-19,Planning and Programming Committee,79930,1982,Kathryn Barger,Absent
+2110,2022-01-19,Planning and Programming Committee,79930,1820,James Butts,Present
+2110,2022-01-19,Planning and Programming Committee,79930,290,Hilda L. Solis,Present
+2110,2022-01-19,Planning and Programming Committee,79930,1981,Janice Hahn,Present
+2111,2022-01-19,"Finance, Budget and Audit Committee",80189,1982,Kathryn Barger,Present
+2111,2022-01-19,"Finance, Budget and Audit Committee",80189,286,Paul Krekorian,Present
+2111,2022-01-19,"Finance, Budget and Audit Committee",80189,282,Mike Bonin,Present
+2111,2022-01-19,"Finance, Budget and Audit Committee",80189,2253,Fernando Dutra,Present
+2111,2022-01-19,"Finance, Budget and Audit Committee",80189,2240,Holly J. Mitchell,Present
+2112,2022-01-20,"Operations, Safety, and Customer Experience Committee",80382,282,Mike Bonin,Present
+2112,2022-01-20,"Operations, Safety, and Customer Experience Committee",80382,2240,Holly J. Mitchell,Present
+2112,2022-01-20,"Operations, Safety, and Customer Experience Committee",80382,284,Jacquelyn Dupont-Walker,Present
+2112,2022-01-20,"Operations, Safety, and Customer Experience Committee",80382,1981,Janice Hahn,Absent
+2112,2022-01-20,"Operations, Safety, and Customer Experience Committee",80382,287,Sheila Kuehl,Present
+2113,2022-01-20,Executive Management Committee,80804,290,Hilda L. Solis,Present
+2113,2022-01-20,Executive Management Committee,80804,288,Ara J. Najarian,Present
+2113,2022-01-20,Executive Management Committee,80804,278,Eric Garcetti,Present
+2113,2022-01-20,Executive Management Committee,80804,1820,James Butts,Present
+2113,2022-01-20,Executive Management Committee,80804,287,Sheila Kuehl,Present
+2113,2022-01-20,Executive Management Committee,80804,2244,Tim Sandoval,Present
+2114,2022-01-20,Construction Committee,80616,2244,Tim Sandoval,Present
+2114,2022-01-20,Construction Committee,80616,2253,Fernando Dutra,Present
+2114,2022-01-20,Construction Committee,80616,284,Jacquelyn Dupont-Walker,Present
+2114,2022-01-20,Construction Committee,80616,1981,Janice Hahn,Absent
+2114,2022-01-20,Construction Committee,80616,286,Paul Krekorian,Present
+2115,2022-02-16,Planning and Programming Committee,81785,284,Jacquelyn Dupont-Walker,Present
+2115,2022-02-16,Planning and Programming Committee,81785,288,Ara J. Najarian,Present
+2115,2022-02-16,Planning and Programming Committee,81785,1982,Kathryn Barger,Absent
+2115,2022-02-16,Planning and Programming Committee,81785,1820,James Butts,Absent
+2115,2022-02-16,Planning and Programming Committee,81785,290,Hilda L. Solis,Present
+2116,2022-02-16,"Finance, Budget and Audit Committee",82240,1982,Kathryn Barger,Present
+2116,2022-02-16,"Finance, Budget and Audit Committee",82240,286,Paul Krekorian,Present
+2116,2022-02-16,"Finance, Budget and Audit Committee",82240,282,Mike Bonin,Present
+2116,2022-02-16,"Finance, Budget and Audit Committee",82240,2253,Fernando Dutra,Present
+2116,2022-02-16,"Finance, Budget and Audit Committee",82240,2240,Holly J. Mitchell,Present
+2117,2022-02-17,"Operations, Safety, and Customer Experience Committee",82429,282,Mike Bonin,Present
+2117,2022-02-17,"Operations, Safety, and Customer Experience Committee",82429,2240,Holly J. Mitchell,Present
+2117,2022-02-17,"Operations, Safety, and Customer Experience Committee",82429,284,Jacquelyn Dupont-Walker,Present
+2117,2022-02-17,"Operations, Safety, and Customer Experience Committee",82429,1981,Janice Hahn,Present
+2117,2022-02-17,"Operations, Safety, and Customer Experience Committee",82429,287,Sheila Kuehl,Present
+2118,2022-02-17,Construction Committee,82665,2244,Tim Sandoval,Present
+2118,2022-02-17,Construction Committee,82665,2253,Fernando Dutra,Present
+2118,2022-02-17,Construction Committee,82665,284,Jacquelyn Dupont-Walker,Present
+2118,2022-02-17,Construction Committee,82665,1981,Janice Hahn,Present
+2118,2022-02-17,Construction Committee,82665,286,Paul Krekorian,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,290,Hilda L. Solis,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,288,Ara J. Najarian,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,284,Jacquelyn Dupont-Walker,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,1982,Kathryn Barger,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,282,Mike Bonin,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,1820,James Butts,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,2253,Fernando Dutra,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,278,Eric Garcetti,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,1981,Janice Hahn,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,286,Paul Krekorian,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,287,Sheila Kuehl,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,2240,Holly J. Mitchell,Present
+2120,2022-02-24,Board of Directors - Regular Board Meeting,83153,2244,Tim Sandoval,Present
+2121,2022-03-16,Planning and Programming Committee,83365,284,Jacquelyn Dupont-Walker,Absent
+2121,2022-03-16,Planning and Programming Committee,83365,288,Ara J. Najarian,Present
+2121,2022-03-16,Planning and Programming Committee,83365,1982,Kathryn Barger,Absent
+2121,2022-03-16,Planning and Programming Committee,83365,1820,James Butts,Present
+2121,2022-03-16,Planning and Programming Committee,83365,290,Hilda L. Solis,Present
+2122,2022-03-16,"Finance, Budget and Audit Committee",82050,1982,Kathryn Barger,Present
+2122,2022-03-16,"Finance, Budget and Audit Committee",82050,286,Paul Krekorian,Present
+2122,2022-03-16,"Finance, Budget and Audit Committee",82050,282,Mike Bonin,Absent
+2122,2022-03-16,"Finance, Budget and Audit Committee",82050,2253,Fernando Dutra,Present
+2122,2022-03-16,"Finance, Budget and Audit Committee",82050,2240,Holly J. Mitchell,Present
+2123,2022-03-17,"Operations, Safety, and Customer Experience Committee",83622,282,Mike Bonin,Absent
+2123,2022-03-17,"Operations, Safety, and Customer Experience Committee",83622,2240,Holly J. Mitchell,Present
+2123,2022-03-17,"Operations, Safety, and Customer Experience Committee",83622,284,Jacquelyn Dupont-Walker,Present
+2123,2022-03-17,"Operations, Safety, and Customer Experience Committee",83622,1981,Janice Hahn,Present
+2123,2022-03-17,"Operations, Safety, and Customer Experience Committee",83622,287,Sheila Kuehl,Present
+2124,2022-03-17,Executive Management Committee,84062,290,Hilda L. Solis,Present
+2124,2022-03-17,Executive Management Committee,84062,288,Ara J. Najarian,Present
+2124,2022-03-17,Executive Management Committee,84062,278,Eric Garcetti,Absent
+2124,2022-03-17,Executive Management Committee,84062,1820,James Butts,Present
+2124,2022-03-17,Executive Management Committee,84062,287,Sheila Kuehl,Present
+2124,2022-03-17,Executive Management Committee,84062,2244,Tim Sandoval,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,290,Hilda L. Solis,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,288,Ara J. Najarian,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,284,Jacquelyn Dupont-Walker,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,1982,Kathryn Barger,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,282,Mike Bonin,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,1820,James Butts,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,2253,Fernando Dutra,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,278,Eric Garcetti,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,1981,Janice Hahn,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,286,Paul Krekorian,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,287,Sheila Kuehl,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,2240,Holly J. Mitchell,Present
+2125,2022-03-24,Board of Directors - Regular Board Meeting,84545,2244,Tim Sandoval,Present
+2127,2022-04-20,Planning and Programming Committee,85066,284,Jacquelyn Dupont-Walker,Present
+2127,2022-04-20,Planning and Programming Committee,85066,288,Ara J. Najarian,Present
+2127,2022-04-20,Planning and Programming Committee,85066,1982,Kathryn Barger,Absent
+2127,2022-04-20,Planning and Programming Committee,85066,1820,James Butts,Present
+2127,2022-04-20,Planning and Programming Committee,85066,290,Hilda L. Solis,Absent
+2128,2022-04-20,"Finance, Budget and Audit Committee",85334,1982,Kathryn Barger,Present
+2128,2022-04-20,"Finance, Budget and Audit Committee",85334,286,Paul Krekorian,Present
+2128,2022-04-20,"Finance, Budget and Audit Committee",85334,282,Mike Bonin,Present
+2128,2022-04-20,"Finance, Budget and Audit Committee",85334,2253,Fernando Dutra,Absent
+2128,2022-04-20,"Finance, Budget and Audit Committee",85334,2240,Holly J. Mitchell,Absent
+2129,2022-04-21,"Operations, Safety, and Customer Experience Committee",85539,282,Mike Bonin,Present
+2129,2022-04-21,"Operations, Safety, and Customer Experience Committee",85539,2240,Holly J. Mitchell,Present
+2129,2022-04-21,"Operations, Safety, and Customer Experience Committee",85539,284,Jacquelyn Dupont-Walker,Present
+2129,2022-04-21,"Operations, Safety, and Customer Experience Committee",85539,1981,Janice Hahn,Present
+2129,2022-04-21,"Operations, Safety, and Customer Experience Committee",85539,287,Sheila Kuehl,Present
+2130,2022-04-21,Construction Committee,85782,2244,Tim Sandoval,Present
+2130,2022-04-21,Construction Committee,85782,2253,Fernando Dutra,Present
+2130,2022-04-21,Construction Committee,85782,284,Jacquelyn Dupont-Walker,Present
+2130,2022-04-21,Construction Committee,85782,1981,Janice Hahn,Present
+2130,2022-04-21,Construction Committee,85782,286,Paul Krekorian,Present
+2131,2022-04-21,Executive Management Committee,85982,290,Hilda L. Solis,Absent
+2131,2022-04-21,Executive Management Committee,85982,288,Ara J. Najarian,Present
+2131,2022-04-21,Executive Management Committee,85982,278,Eric Garcetti,Absent
+2131,2022-04-21,Executive Management Committee,85982,1820,James Butts,Present
+2131,2022-04-21,Executive Management Committee,85982,287,Sheila Kuehl,Present
+2131,2022-04-21,Executive Management Committee,85982,2244,Tim Sandoval,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,290,Hilda L. Solis,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,288,Ara J. Najarian,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,284,Jacquelyn Dupont-Walker,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,1982,Kathryn Barger,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,282,Mike Bonin,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,1820,James Butts,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,2253,Fernando Dutra,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,278,Eric Garcetti,Absent
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,1981,Janice Hahn,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,286,Paul Krekorian,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,287,Sheila Kuehl,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,2240,Holly J. Mitchell,Present
+2132,2022-04-28,Board of Directors - Regular Board Meeting,86312,2244,Tim Sandoval,Present
+2133,2022-05-18,Planning and Programming Committee,84803,284,Jacquelyn Dupont-Walker,Present
+2133,2022-05-18,Planning and Programming Committee,84803,288,Ara J. Najarian,Present
+2133,2022-05-18,Planning and Programming Committee,84803,1982,Kathryn Barger,Absent
+2133,2022-05-18,Planning and Programming Committee,84803,1820,James Butts,Present
+2133,2022-05-18,Planning and Programming Committee,84803,290,Hilda L. Solis,Absent
+2134,2022-05-18,"Finance, Budget and Audit Committee",86666,1982,Kathryn Barger,Present
+2134,2022-05-18,"Finance, Budget and Audit Committee",86666,286,Paul Krekorian,Present
+2134,2022-05-18,"Finance, Budget and Audit Committee",86666,282,Mike Bonin,Present
+2134,2022-05-18,"Finance, Budget and Audit Committee",86666,2253,Fernando Dutra,Present
+2134,2022-05-18,"Finance, Budget and Audit Committee",86666,2240,Holly J. Mitchell,Present
+2135,2022-08-18,"Operations, Safety, and Customer Experience Committee",90706,2240,Holly J. Mitchell,Absent
+2135,2022-08-18,"Operations, Safety, and Customer Experience Committee",90706,2244,Tim Sandoval,Present
+2135,2022-08-18,"Operations, Safety, and Customer Experience Committee",90706,282,Mike Bonin,Present
+2135,2022-08-18,"Operations, Safety, and Customer Experience Committee",90706,286,Paul Krekorian,Absent
+2135,2022-08-18,"Operations, Safety, and Customer Experience Committee",90706,287,Sheila Kuehl,Absent
+2135,2022-08-18,"Operations, Safety, and Customer Experience Committee",90706,284,Jacquelyn Dupont-Walker,Present
+2136,2022-05-19,"Operations, Safety, and Customer Experience Committee",86885,282,Mike Bonin,Present
+2136,2022-05-19,"Operations, Safety, and Customer Experience Committee",86885,2240,Holly J. Mitchell,Present
+2136,2022-05-19,"Operations, Safety, and Customer Experience Committee",86885,284,Jacquelyn Dupont-Walker,Present
+2136,2022-05-19,"Operations, Safety, and Customer Experience Committee",86885,1981,Janice Hahn,Present
+2136,2022-05-19,"Operations, Safety, and Customer Experience Committee",86885,287,Sheila Kuehl,Present
+2137,2022-05-19,Construction Committee,87136,2244,Tim Sandoval,Present
+2137,2022-05-19,Construction Committee,87136,2253,Fernando Dutra,Present
+2137,2022-05-19,Construction Committee,87136,284,Jacquelyn Dupont-Walker,Present
+2137,2022-05-19,Construction Committee,87136,1981,Janice Hahn,Present
+2137,2022-05-19,Construction Committee,87136,286,Paul Krekorian,Present
+2138,2022-05-19,Executive Management Committee,87343,290,Hilda L. Solis,Present
+2138,2022-05-19,Executive Management Committee,87343,288,Ara J. Najarian,Present
+2138,2022-05-19,Executive Management Committee,87343,278,Eric Garcetti,Present
+2138,2022-05-19,Executive Management Committee,87343,1820,James Butts,Present
+2138,2022-05-19,Executive Management Committee,87343,287,Sheila Kuehl,Present
+2138,2022-05-19,Executive Management Committee,87343,2244,Tim Sandoval,Present
+2139,2022-06-15,Planning and Programming Committee,89611,284,Jacquelyn Dupont-Walker,Present
+2139,2022-06-15,Planning and Programming Committee,89611,288,Ara J. Najarian,Present
+2139,2022-06-15,Planning and Programming Committee,89611,1982,Kathryn Barger,Absent
+2139,2022-06-15,Planning and Programming Committee,89611,1820,James Butts,Absent
+2139,2022-06-15,Planning and Programming Committee,89611,290,Hilda L. Solis,Absent
+2139,2022-06-15,Planning and Programming Committee,89611,2244,Tim Sandoval,Present
+2140,2022-06-15,"Finance, Budget and Audit Committee",88235,1982,Kathryn Barger,Present
+2140,2022-06-15,"Finance, Budget and Audit Committee",88235,286,Paul Krekorian,Present
+2140,2022-06-15,"Finance, Budget and Audit Committee",88235,282,Mike Bonin,Present
+2140,2022-06-15,"Finance, Budget and Audit Committee",88235,2253,Fernando Dutra,Present
+2140,2022-06-15,"Finance, Budget and Audit Committee",88235,2240,Holly J. Mitchell,Present
+2141,2022-06-16,"Operations, Safety, and Customer Experience Committee",88442,282,Mike Bonin,Present
+2141,2022-06-16,"Operations, Safety, and Customer Experience Committee",88442,2240,Holly J. Mitchell,Present
+2141,2022-06-16,"Operations, Safety, and Customer Experience Committee",88442,284,Jacquelyn Dupont-Walker,Present
+2141,2022-06-16,"Operations, Safety, and Customer Experience Committee",88442,1981,Janice Hahn,Present
+2141,2022-06-16,"Operations, Safety, and Customer Experience Committee",88442,287,Sheila Kuehl,Present
+2142,2022-06-16,Construction Committee,88693,2244,Tim Sandoval,Present
+2142,2022-06-16,Construction Committee,88693,2253,Fernando Dutra,Present
+2142,2022-06-16,Construction Committee,88693,284,Jacquelyn Dupont-Walker,Present
+2142,2022-06-16,Construction Committee,88693,1981,Janice Hahn,Present
+2142,2022-06-16,Construction Committee,88693,286,Paul Krekorian,Absent
+2143,2022-06-16,Executive Management Committee,88895,290,Hilda L. Solis,Present
+2143,2022-06-16,Executive Management Committee,88895,288,Ara J. Najarian,Present
+2143,2022-06-16,Executive Management Committee,88895,278,Eric Garcetti,Absent
+2143,2022-06-16,Executive Management Committee,88895,1820,James Butts,Absent
+2143,2022-06-16,Executive Management Committee,88895,287,Sheila Kuehl,Present
+2143,2022-06-16,Executive Management Committee,88895,2244,Tim Sandoval,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,290,Hilda L. Solis,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,288,Ara J. Najarian,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,284,Jacquelyn Dupont-Walker,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,1982,Kathryn Barger,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,282,Mike Bonin,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,1820,James Butts,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,2253,Fernando Dutra,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,278,Eric Garcetti,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,1981,Janice Hahn,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,286,Paul Krekorian,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,287,Sheila Kuehl,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,2240,Holly J. Mitchell,Present
+2144,2022-06-23,Board of Directors - Regular Board Meeting,89295,2244,Tim Sandoval,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,290,Hilda L. Solis,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,288,Ara J. Najarian,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,284,Jacquelyn Dupont-Walker,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,1982,Kathryn Barger,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,282,Mike Bonin,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,1820,James Butts,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,2253,Fernando Dutra,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,278,Eric Garcetti,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,1981,Janice Hahn,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,286,Paul Krekorian,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,287,Sheila Kuehl,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,2240,Holly J. Mitchell,Present
+2145,2022-01-27,Board of Directors - Regular Board Meeting,81454,2244,Tim Sandoval,Present
+2222,2022-01-27,LA SAFE,81424,290,Hilda L. Solis,Present
+2222,2022-01-27,LA SAFE,81424,288,Ara J. Najarian,Present
+2222,2022-01-27,LA SAFE,81424,284,Jacquelyn Dupont-Walker,Present
+2222,2022-01-27,LA SAFE,81424,1982,Kathryn Barger,Present
+2222,2022-01-27,LA SAFE,81424,282,Mike Bonin,Present
+2222,2022-01-27,LA SAFE,81424,1820,James Butts,Absent
+2222,2022-01-27,LA SAFE,81424,2253,Fernando Dutra,Present
+2222,2022-01-27,LA SAFE,81424,278,Eric Garcetti,Present
+2222,2022-01-27,LA SAFE,81424,1981,Janice Hahn,Present
+2222,2022-01-27,LA SAFE,81424,286,Paul Krekorian,Present
+2222,2022-01-27,LA SAFE,81424,287,Sheila Kuehl,Present
+2222,2022-01-27,LA SAFE,81424,2240,Holly J. Mitchell,Present
+2222,2022-01-27,LA SAFE,81424,2244,Tim Sandoval,Present
+2232,2022-03-31,Measure R Independent Taxpayer Oversight Committee,81679,2225,Jay Gandhi,Present
+2232,2022-03-31,Measure R Independent Taxpayer Oversight Committee,81679,2226,Patricia Schnegg,Present
+2272,2022-08-17,Planning and Programming Committee,89721,288,Ara J. Najarian,Present
+2272,2022-08-17,Planning and Programming Committee,89721,278,Eric Garcetti,Present
+2272,2022-08-17,Planning and Programming Committee,89721,1820,James Butts,Present
+2272,2022-08-17,Planning and Programming Committee,89721,284,Jacquelyn Dupont-Walker,Present
+2272,2022-08-17,Planning and Programming Committee,89721,2253,Fernando Dutra,Present
+2272,2022-08-17,Planning and Programming Committee,89721,290,Hilda L. Solis,Present
+2273,2022-08-17,"Finance, Budget and Audit Committee",90074,1982,Kathryn Barger,Present
+2273,2022-08-17,"Finance, Budget and Audit Committee",90074,2240,Holly J. Mitchell,Absent
+2273,2022-08-17,"Finance, Budget and Audit Committee",90074,286,Paul Krekorian,Present
+2273,2022-08-17,"Finance, Budget and Audit Committee",90074,2244,Tim Sandoval,Present
+2274,2022-08-18,Executive Management Committee,90283,288,Ara J. Najarian,Present
+2274,2022-08-18,Executive Management Committee,90283,1981,Janice Hahn,Absent
+2274,2022-08-18,Executive Management Committee,90283,1982,Kathryn Barger,Present
+2274,2022-08-18,Executive Management Committee,90283,1820,James Butts,Present
+2274,2022-08-18,Executive Management Committee,90283,278,Eric Garcetti,Present
+2274,2022-08-18,Executive Management Committee,90283,290,Hilda L. Solis,Present
+2275,2022-08-18,Construction Committee,90503,2253,Fernando Dutra,Present
+2275,2022-08-18,Construction Committee,90503,1981,Janice Hahn,Absent
+2275,2022-08-18,Construction Committee,90503,282,Mike Bonin,Present
+2275,2022-08-18,Construction Committee,90503,284,Jacquelyn Dupont-Walker,Present
+2275,2022-08-18,Construction Committee,90503,286,Paul Krekorian,Present
+2275,2022-08-18,Construction Committee,90503,287,Sheila Kuehl,Absent
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,288,Ara J. Najarian,Present
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,284,Jacquelyn Dupont-Walker,Present
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,1981,Janice Hahn,Absent
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,1982,Kathryn Barger,Present
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,282,Mike Bonin,Present
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,1820,James Butts,Present
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,2253,Fernando Dutra,Present
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,278,Eric Garcetti,Present
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,286,Paul Krekorian,Present
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,287,Sheila Kuehl,Absent
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,2240,Holly J. Mitchell,Present
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,2244,Tim Sandoval,Present
+2276,2022-08-25,Board of Directors - Regular Board Meeting,91236,290,Hilda L. Solis,Absent
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,290,Hilda L. Solis,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,288,Ara J. Najarian,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,284,Jacquelyn Dupont-Walker,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,1982,Kathryn Barger,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,282,Mike Bonin,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,1820,James Butts,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,2253,Fernando Dutra,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,278,Eric Garcetti,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,1981,Janice Hahn,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,286,Paul Krekorian,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,287,Sheila Kuehl,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,2240,Holly J. Mitchell,Present
+2282,2022-05-26,Board of Directors - Regular Board Meeting,89119,2244,Tim Sandoval,Present
+2284,2022-05-26,LA SAFE,87616,290,Hilda L. Solis,Present
+2284,2022-05-26,LA SAFE,87616,288,Ara J. Najarian,Present
+2284,2022-05-26,LA SAFE,87616,284,Jacquelyn Dupont-Walker,Present
+2284,2022-05-26,LA SAFE,87616,1982,Kathryn Barger,Present
+2284,2022-05-26,LA SAFE,87616,282,Mike Bonin,Present
+2284,2022-05-26,LA SAFE,87616,1820,James Butts,Present
+2284,2022-05-26,LA SAFE,87616,2253,Fernando Dutra,Present
+2284,2022-05-26,LA SAFE,87616,278,Eric Garcetti,Present
+2284,2022-05-26,LA SAFE,87616,1981,Janice Hahn,Present
+2284,2022-05-26,LA SAFE,87616,286,Paul Krekorian,Present
+2284,2022-05-26,LA SAFE,87616,287,Sheila Kuehl,Present
+2284,2022-05-26,LA SAFE,87616,2240,Holly J. Mitchell,Absent
+2284,2022-05-26,LA SAFE,87616,2244,Tim Sandoval,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,288,Ara J. Najarian,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,284,Jacquelyn Dupont-Walker,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,1981,Janice Hahn,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,1982,Kathryn Barger,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,282,Mike Bonin,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,1820,James Butts,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,2253,Fernando Dutra,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,278,Eric Garcetti,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,286,Paul Krekorian,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,287,Sheila Kuehl,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,2240,Holly J. Mitchell,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,2244,Tim Sandoval,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,290,Hilda L. Solis,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,2331,Gloria Roberts,Present
+2303,2022-09-22,Board of Directors - Regular Board Meeting,93254,265,Stephanie Wiggins,Present
+2305,2022-10-19,Planning and Programming Committee,93558,288,Ara J. Najarian,Present
+2305,2022-10-19,Planning and Programming Committee,93558,278,Eric Garcetti,Absent
+2305,2022-10-19,Planning and Programming Committee,93558,1820,James Butts,Present
+2305,2022-10-19,Planning and Programming Committee,93558,284,Jacquelyn Dupont-Walker,Present
+2305,2022-10-19,Planning and Programming Committee,93558,2253,Fernando Dutra,Present
+2305,2022-10-19,Planning and Programming Committee,93558,290,Hilda L. Solis,Present
+2306,2022-10-19,"Finance, Budget and Audit Committee",93833,1982,Kathryn Barger,Present
+2306,2022-10-19,"Finance, Budget and Audit Committee",93833,2240,Holly J. Mitchell,Present
+2306,2022-10-19,"Finance, Budget and Audit Committee",93833,286,Paul Krekorian,Present
+2306,2022-10-19,"Finance, Budget and Audit Committee",93833,2244,Tim Sandoval,Present
+2308,2022-10-20,Executive Management Committee,94033,288,Ara J. Najarian,Present
+2308,2022-10-20,Executive Management Committee,94033,1981,Janice Hahn,Present
+2308,2022-10-20,Executive Management Committee,94033,1982,Kathryn Barger,Present
+2308,2022-10-20,Executive Management Committee,94033,1820,James Butts,Present
+2308,2022-10-20,Executive Management Committee,94033,278,Eric Garcetti,Absent
+2308,2022-10-20,Executive Management Committee,94033,290,Hilda L. Solis,Present
+2310,2022-10-20,Construction Committee,94248,2253,Fernando Dutra,Present
+2310,2022-10-20,Construction Committee,94248,1981,Janice Hahn,Present
+2310,2022-10-20,Construction Committee,94248,282,Mike Bonin,Present
+2310,2022-10-20,Construction Committee,94248,284,Jacquelyn Dupont-Walker,Absent
+2310,2022-10-20,Construction Committee,94248,287,Sheila Kuehl,Present
+2311,2022-10-20,"Operations, Safety, and Customer Experience Committee",94450,2240,Holly J. Mitchell,Present
+2311,2022-10-20,"Operations, Safety, and Customer Experience Committee",94450,2244,Tim Sandoval,Present
+2311,2022-10-20,"Operations, Safety, and Customer Experience Committee",94450,282,Mike Bonin,Present
+2311,2022-10-20,"Operations, Safety, and Customer Experience Committee",94450,286,Paul Krekorian,Present
+2311,2022-10-20,"Operations, Safety, and Customer Experience Committee",94450,287,Sheila Kuehl,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,288,Ara J. Najarian,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,284,Jacquelyn Dupont-Walker,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,1981,Janice Hahn,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,1982,Kathryn Barger,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,282,Mike Bonin,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,1820,James Butts,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,2253,Fernando Dutra,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,278,Eric Garcetti,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,286,Paul Krekorian,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,287,Sheila Kuehl,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,2240,Holly J. Mitchell,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,2244,Tim Sandoval,Present
+2314,2022-10-27,Board of Directors - Regular Board Meeting,94926,290,Hilda L. Solis,Present
+2316,2022-11-16,Planning and Programming Committee,95148,288,Ara J. Najarian,Present
+2316,2022-11-16,Planning and Programming Committee,95148,278,Eric Garcetti,Present
+2316,2022-11-16,Planning and Programming Committee,95148,1820,James Butts,Present
+2316,2022-11-16,Planning and Programming Committee,95148,284,Jacquelyn Dupont-Walker,Present
+2316,2022-11-16,Planning and Programming Committee,95148,2253,Fernando Dutra,Present
+2316,2022-11-16,Planning and Programming Committee,95148,290,Hilda L. Solis,Present
+2318,2022-11-16,"Finance, Budget and Audit Committee",95416,1982,Kathryn Barger,Present
+2318,2022-11-16,"Finance, Budget and Audit Committee",95416,2240,Holly J. Mitchell,Present
+2318,2022-11-16,"Finance, Budget and Audit Committee",95416,286,Paul Krekorian,Present
+2318,2022-11-16,"Finance, Budget and Audit Committee",95416,2244,Tim Sandoval,Present
+2320,2022-11-17,Executive Management Committee,95619,288,Ara J. Najarian,Present
+2320,2022-11-17,Executive Management Committee,95619,1981,Janice Hahn,Present
+2320,2022-11-17,Executive Management Committee,95619,1982,Kathryn Barger,Present
+2320,2022-11-17,Executive Management Committee,95619,1820,James Butts,Present
+2320,2022-11-17,Executive Management Committee,95619,278,Eric Garcetti,Present
+2320,2022-11-17,Executive Management Committee,95619,290,Hilda L. Solis,Present
+2321,2022-11-17,Construction Committee,95837,2253,Fernando Dutra,Present
+2321,2022-11-17,Construction Committee,95837,1981,Janice Hahn,Present
+2321,2022-11-17,Construction Committee,95837,282,Mike Bonin,Absent
+2321,2022-11-17,Construction Committee,95837,284,Jacquelyn Dupont-Walker,Absent
+2321,2022-11-17,Construction Committee,95837,287,Sheila Kuehl,Present
+2323,2022-11-17,"Operations, Safety, and Customer Experience Committee",96042,2240,Holly J. Mitchell,Present
+2323,2022-11-17,"Operations, Safety, and Customer Experience Committee",96042,2244,Tim Sandoval,Present
+2323,2022-11-17,"Operations, Safety, and Customer Experience Committee",96042,282,Mike Bonin,Present
+2323,2022-11-17,"Operations, Safety, and Customer Experience Committee",96042,286,Paul Krekorian,Present
+2323,2022-11-17,"Operations, Safety, and Customer Experience Committee",96042,287,Sheila Kuehl,Present
+2431,2022-11-16,Ad Hoc 2028 Olympic & Paralympic Games Committee,95132,290,Hilda L. Solis,Present
+2431,2022-11-16,Ad Hoc 2028 Olympic & Paralympic Games Committee,95132,288,Ara J. Najarian,Present
+2431,2022-11-16,Ad Hoc 2028 Olympic & Paralympic Games Committee,95132,1820,James Butts,Present
+2431,2022-11-16,Ad Hoc 2028 Olympic & Paralympic Games Committee,95132,284,Jacquelyn Dupont-Walker,Present
+2431,2022-11-16,Ad Hoc 2028 Olympic & Paralympic Games Committee,95132,278,Eric Garcetti,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,288,Ara J. Najarian,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,284,Jacquelyn Dupont-Walker,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,1981,Janice Hahn,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,1982,Kathryn Barger,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,282,Mike Bonin,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,1820,James Butts,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,2253,Fernando Dutra,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,278,Eric Garcetti,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,286,Paul Krekorian,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,287,Sheila Kuehl,Absent
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,2240,Holly J. Mitchell,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,2244,Tim Sandoval,Present
+2448,2022-12-01,Board of Directors - Regular Board Meeting,96687,290,Hilda L. Solis,Present
+2463,2022-12-01,Crenshaw Project Corporation,96951,288,Ara J. Najarian,Present
+2463,2022-12-01,Crenshaw Project Corporation,96951,284,Jacquelyn Dupont-Walker,Present
+2463,2022-12-01,Crenshaw Project Corporation,96951,1981,Janice Hahn,Present
+2463,2022-12-01,Crenshaw Project Corporation,96951,1982,Kathryn Barger,Present
+2463,2022-12-01,Crenshaw Project Corporation,96951,282,Mike Bonin,Present
+2463,2022-12-01,Crenshaw Project Corporation,96951,1820,James Butts,Present
+2463,2022-12-01,Crenshaw Project Corporation,96951,2253,Fernando Dutra,Present
+2463,2022-12-01,Crenshaw Project Corporation,96951,278,Eric Garcetti,Present
+2463,2022-12-01,Crenshaw Project Corporation,96951,286,Paul Krekorian,Absent
+2463,2022-12-01,Crenshaw Project Corporation,96951,287,Sheila Kuehl,Absent
+2463,2022-12-01,Crenshaw Project Corporation,96951,2240,Holly J. Mitchell,Present
+2463,2022-12-01,Crenshaw Project Corporation,96951,2244,Tim Sandoval,Present
+2463,2022-12-01,Crenshaw Project Corporation,96951,290,Hilda L. Solis,Present

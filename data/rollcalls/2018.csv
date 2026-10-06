@@ -1,0 +1,71 @@
+event_id,event_date,body,item_id,person_id,person,status
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,286,Paul Krekorian,Present
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,280,John Fasana,Absent
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,1981,Janice Hahn,Present
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,282,Mike Bonin,Present
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,290,Hilda L. Solis,Absent
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,1820,James Butts,Present
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,278,Eric Garcetti,Absent
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,287,Sheila Kuehl,Present
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,1982,Kathryn Barger,Present
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,284,Jacquelyn Dupont-Walker,Present
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,279,Mark Ridley-Thomas,Present
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,288,Ara J. Najarian,Present
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,1986,Robert Garcia,Present
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,1821,Carrie Bowen,Present
+1277,2018-01-25,Board of Directors - Regular Board Meeting,30263,1848,Phil Washington,Present
+1281,2018-01-17,"Finance, Budget and Audit Committee",29683,1982,Kathryn Barger,Present
+1281,2018-01-17,"Finance, Budget and Audit Committee",29683,286,Paul Krekorian,Present
+1281,2018-01-17,"Finance, Budget and Audit Committee",29683,280,John Fasana,Present
+1281,2018-01-17,"Finance, Budget and Audit Committee",29683,1981,Janice Hahn,Present
+1281,2018-01-17,"Finance, Budget and Audit Committee",29683,288,Ara J. Najarian,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,286,Paul Krekorian,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,280,John Fasana,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,1981,Janice Hahn,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,282,Mike Bonin,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,290,Hilda L. Solis,Absent
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,1820,James Butts,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,278,Eric Garcetti,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,287,Sheila Kuehl,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,1982,Kathryn Barger,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,284,Jacquelyn Dupont-Walker,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,279,Mark Ridley-Thomas,Absent
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,288,Ara J. Najarian,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,1986,Robert Garcia,Absent
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,1821,Carrie Bowen,Present
+1298,2018-03-22,Board of Directors - Regular Board Meeting,31407,1848,Phil Washington,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,286,Paul Krekorian,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,280,John Fasana,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,1981,Janice Hahn,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,282,Mike Bonin,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,290,Hilda L. Solis,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,1820,James Butts,Absent
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,278,Eric Garcetti,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,287,Sheila Kuehl,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,1982,Kathryn Barger,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,284,Jacquelyn Dupont-Walker,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,279,Mark Ridley-Thomas,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,288,Ara J. Najarian,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,1986,Robert Garcia,Absent
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,1821,Carrie Bowen,Present
+1302,2018-04-26,Board of Directors - Regular Board Meeting,32089,1848,Phil Washington,Present
+1311,2018-01-17,"Ad Hoc Congestion, Highway and Roads Committee",29351,1981,Janice Hahn,Present
+1311,2018-01-17,"Ad Hoc Congestion, Highway and Roads Committee",29351,280,John Fasana,Present
+1311,2018-01-17,"Ad Hoc Congestion, Highway and Roads Committee",29351,1982,Kathryn Barger,Present
+1311,2018-01-17,"Ad Hoc Congestion, Highway and Roads Committee",29351,284,Jacquelyn Dupont-Walker,Absent
+1311,2018-01-17,"Ad Hoc Congestion, Highway and Roads Committee",29351,288,Ara J. Najarian,Present
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,278,Eric Garcetti,Present
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,287,Sheila Kuehl,Absent
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,1820,James Butts,Absent
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,1982,Kathryn Barger,Absent
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,282,Mike Bonin,Present
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,284,Jacquelyn Dupont-Walker,Present
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,280,John Fasana,Present
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,1986,Robert Garcia,Present
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,1981,Janice Hahn,Present
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,286,Paul Krekorian,Absent
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,288,Ara J. Najarian,Present
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,279,Mark Ridley-Thomas,Present
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,290,Hilda L. Solis,Absent
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,1821,Carrie Bowen,Present
+1321,2018-05-24,Board of Directors - Regular Board Meeting,34605,1848,Phil Washington,Present

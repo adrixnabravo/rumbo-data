@@ -1,0 +1,872 @@
+event_id,event_date,body,item_id,agenda_number,matter_file,action,person_id,person,vote,vote_result
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45200,2,2019-0600,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,290,Hilda L. Solis,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,1982,Kathryn Barger,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,1986,Robert Garcia,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,286,Paul Krekorian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45205,47,2019-0732,RECEIVED AND FILED,279,Mark Ridley-Thomas,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,1986,Robert Garcia,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,286,Paul Krekorian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45208,9,2019-0245,APPROVED,279,Mark Ridley-Thomas,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45214,44,2019-0462,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45218,21,2019-0639,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45220,10,2019-0443,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45221,20,2019-0620,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45223,19,2019-0597,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45225,18,2019-0594,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45227,16,2019-0482,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45229,13,2019-0652,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45232,12,2019-0560,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45234,11,2019-0553,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,278,Eric Garcetti,Conflict,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,290,Hilda L. Solis,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,1982,Kathryn Barger,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,1986,Robert Garcia,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,1981,Janice Hahn,Conflict,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,286,Paul Krekorian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,288,Ara J. Najarian,Conflict,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45245,17,2019-0485,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45246,32,2019-0563,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45248,31,2019-0556,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45250,28,2019-0631,RECEIVED AND FILED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45252,27,2019-0632,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45253,26,2019-0547,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,1986,Robert Garcia,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,286,Paul Krekorian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,287,Sheila Kuehl,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45255,24,2019-0605,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,1986,Robert Garcia,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,286,Paul Krekorian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,287,Sheila Kuehl,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45259,46,2019-0714,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45262,39,2019-0643,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45265,33,2019-0657,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45266,38,2019-0616,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45268,37,2019-0608,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45270,35,2019-0635,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45272,42,2019-0644,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45274,41,2019-0626,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45276,40,2019-0450,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45277,45,2019-0621,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45279,43,2019-0649,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,1820,James Butts,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,278,Eric Garcetti,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,290,Hilda L. Solis,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,1982,Kathryn Barger,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,282,Mike Bonin,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,284,Jacquelyn Dupont-Walker,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,280,John Fasana,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,1986,Robert Garcia,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,1981,Janice Hahn,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,286,Paul Krekorian,Absent,0
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,287,Sheila Kuehl,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,288,Ara J. Najarian,Aye,1
+1566,2019-09-26,Board of Directors - Regular Board Meeting,45418,,,APPROVED ON CONSENT CALENDAR,279,Mark Ridley-Thomas,Absent,0
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,1820,James Butts,Aye,1
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,278,Eric Garcetti,Aye,1
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,290,Hilda L. Solis,Aye,1
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,1982,Kathryn Barger,Aye,1
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,282,Mike Bonin,Aye,1
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,280,John Fasana,Aye,1
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,1986,Robert Garcia,Absent,0
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,1981,Janice Hahn,Aye,1
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,286,Paul Krekorian,Aye,1
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,287,Sheila Kuehl,Aye,1
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,288,Ara J. Najarian,Aye,1
+1571,2019-07-25,Board of Directors - Regular Board Meeting,72191,36.1,2019-0598,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46385,2,2019-0755,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,1982,Kathryn Barger,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,1981,Janice Hahn,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46398,52,2019-0734,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,278,Eric Garcetti,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,1982,Kathryn Barger,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,1981,Janice Hahn,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,286,Paul Krekorian,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46399,50,2019-0776,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,282,Mike Bonin,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,1981,Janice Hahn,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46401,39,2019-0712,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,1981,Janice Hahn,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46407,6.1,2019-0788,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,1981,Janice Hahn,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46408,6,2019-0747,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46414,18,2019-0546,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46416,17,2019-0545,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46418,51,2019-0782,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46420,15,2019-0690,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46422,14,2019-0679,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46424,13,2019-0671,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46426,12,2019-0664,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,1982,Kathryn Barger,Conflict,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,1981,Janice Hahn,Conflict,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,288,Ara J. Najarian,Conflict,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46428,11,2019-0604,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46430,9,2019-0557,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46432,8,2019-0555,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,1982,Kathryn Barger,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,1981,Janice Hahn,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46434,5,2019-0525,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46435,29,2019-0655,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46437,28,2019-0653,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46439,24,2019-0731,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46441,21,2019-0676,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46443,20,2019-0673,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46445,19,2019-0613,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46449,47,2019-0726,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46451,30,2019-0633,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46453,46,2019-0607,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46455,45,2019-0599,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46457,40,2019-0708,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46459,36,2019-0638,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46461,35,2019-0716,ADOPTED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46463,34,2019-0370,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46465,32,2019-0665,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,278,Eric Garcetti,Conflict,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,1982,Kathryn Barger,Conflict,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,1981,Janice Hahn,Conflict,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46561,10,2019-0602,APPROVED,279,Mark Ridley-Thomas,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,1820,James Butts,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,278,Eric Garcetti,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,290,Hilda L. Solis,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,1982,Kathryn Barger,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,282,Mike Bonin,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,284,Jacquelyn Dupont-Walker,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,280,John Fasana,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,1986,Robert Garcia,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,1981,Janice Hahn,Absent,0
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,286,Paul Krekorian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,287,Sheila Kuehl,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,288,Ara J. Najarian,Aye,1
+1586,2019-10-24,Board of Directors - Regular Board Meeting,46562,,,APPROVED ON CONSENT CALENDAR,279,Mark Ridley-Thomas,Absent,0

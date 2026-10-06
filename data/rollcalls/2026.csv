@@ -1,0 +1,329 @@
+event_id,event_date,body,item_id,person_id,person,status
+3217,2026-01-14,Construction Committee,159352,288,Ara J. Najarian,Present
+3217,2026-01-14,Construction Committee,159352,1820,James Butts,Absent
+3217,2026-01-14,Construction Committee,159352,284,Jacquelyn Dupont-Walker,Present
+3217,2026-01-14,Construction Committee,159352,2253,Fernando Dutra,Present
+3217,2026-01-14,Construction Committee,159352,3525,Imelda Padilla,Present
+3218,2026-01-14,Planning and Programming Committee,158930,284,Jacquelyn Dupont-Walker,Present
+3218,2026-01-14,Planning and Programming Committee,158930,290,Hilda L. Solis,Absent
+3218,2026-01-14,Planning and Programming Committee,158930,1820,James Butts,Present
+3218,2026-01-14,Planning and Programming Committee,158930,3356,Lindsey Horvath,Present
+3218,2026-01-14,Planning and Programming Committee,158930,288,Ara J. Najarian,Present
+3219,2026-01-15,"Finance, Budget and Audit Committee",159655,2244,Tim Sandoval,Present
+3219,2026-01-15,"Finance, Budget and Audit Committee",159655,3373,Katy Yaroslavsky,Present
+3219,2026-01-15,"Finance, Budget and Audit Committee",159655,1982,Kathryn Barger,Present
+3219,2026-01-15,"Finance, Budget and Audit Committee",159655,3356,Lindsey Horvath,Present
+3219,2026-01-15,"Finance, Budget and Audit Committee",159655,2240,Holly J. Mitchell,Present
+3221,2026-01-15,Executive Management Committee,159943,2253,Fernando Dutra,Present
+3221,2026-01-15,Executive Management Committee,159943,3355,Karen Bass,Absent
+3221,2026-01-15,Executive Management Committee,159943,1982,Kathryn Barger,Present
+3221,2026-01-15,Executive Management Committee,159943,284,Jacquelyn Dupont-Walker,Present
+3221,2026-01-15,Executive Management Committee,159943,1981,Janice Hahn,Present
+3221,2026-01-15,Executive Management Committee,159943,290,Hilda L. Solis,Present
+3222,2026-01-15,"Operations, Safety, and Customer Experience Committee",160252,2240,Holly J. Mitchell,Present
+3222,2026-01-15,"Operations, Safety, and Customer Experience Committee",160252,3525,Imelda Padilla,Present
+3222,2026-01-15,"Operations, Safety, and Customer Experience Committee",160252,1981,Janice Hahn,Present
+3222,2026-01-15,"Operations, Safety, and Customer Experience Committee",160252,2244,Tim Sandoval,Present
+3222,2026-01-15,"Operations, Safety, and Customer Experience Committee",160252,3373,Katy Yaroslavsky,Present
+3223,2026-02-18,Construction Committee,161348,288,Ara J. Najarian,Present
+3223,2026-02-18,Construction Committee,161348,1820,James Butts,Absent
+3223,2026-02-18,Construction Committee,161348,284,Jacquelyn Dupont-Walker,Present
+3223,2026-02-18,Construction Committee,161348,2253,Fernando Dutra,Present
+3223,2026-02-18,Construction Committee,161348,3525,Imelda Padilla,Present
+3224,2026-02-18,Planning and Programming Committee,161009,284,Jacquelyn Dupont-Walker,Present
+3224,2026-02-18,Planning and Programming Committee,161009,290,Hilda L. Solis,Present
+3224,2026-02-18,Planning and Programming Committee,161009,1820,James Butts,Present
+3224,2026-02-18,Planning and Programming Committee,161009,3356,Lindsey Horvath,Present
+3224,2026-02-18,Planning and Programming Committee,161009,288,Ara J. Najarian,Present
+3225,2026-02-19,"Finance, Budget and Audit Committee",161647,2244,Tim Sandoval,Present
+3225,2026-02-19,"Finance, Budget and Audit Committee",161647,3373,Katy Yaroslavsky,Present
+3225,2026-02-19,"Finance, Budget and Audit Committee",161647,1982,Kathryn Barger,Absent
+3225,2026-02-19,"Finance, Budget and Audit Committee",161647,3356,Lindsey Horvath,Present
+3225,2026-02-19,"Finance, Budget and Audit Committee",161647,2240,Holly J. Mitchell,Present
+3226,2026-02-19,Executive Management Committee,161963,2253,Fernando Dutra,Present
+3226,2026-02-19,Executive Management Committee,161963,3355,Karen Bass,Absent
+3226,2026-02-19,Executive Management Committee,161963,1982,Kathryn Barger,Absent
+3226,2026-02-19,Executive Management Committee,161963,284,Jacquelyn Dupont-Walker,Present
+3226,2026-02-19,Executive Management Committee,161963,1981,Janice Hahn,Present
+3226,2026-02-19,Executive Management Committee,161963,290,Hilda L. Solis,Present
+3227,2026-02-19,"Operations, Safety, and Customer Experience Committee",162257,2240,Holly J. Mitchell,Present
+3227,2026-02-19,"Operations, Safety, and Customer Experience Committee",162257,3525,Imelda Padilla,Absent
+3227,2026-02-19,"Operations, Safety, and Customer Experience Committee",162257,1981,Janice Hahn,Present
+3227,2026-02-19,"Operations, Safety, and Customer Experience Committee",162257,2244,Tim Sandoval,Present
+3227,2026-02-19,"Operations, Safety, and Customer Experience Committee",162257,3373,Katy Yaroslavsky,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,2253,Fernando Dutra,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,284,Jacquelyn Dupont-Walker,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,1982,Kathryn Barger,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,3355,Karen Bass,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,1820,James Butts,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,1981,Janice Hahn,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,3356,Lindsey Horvath,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,2240,Holly J. Mitchell,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,288,Ara J. Najarian,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,3525,Imelda Padilla,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,2244,Tim Sandoval,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,290,Hilda L. Solis,Present
+3228,2026-02-26,Board of Directors - Regular Board Meeting,163531,3373,Katy Yaroslavsky,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,2253,Fernando Dutra,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,284,Jacquelyn Dupont-Walker,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,1982,Kathryn Barger,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,3355,Karen Bass,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,1820,James Butts,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,1981,Janice Hahn,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,3356,Lindsey Horvath,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,2240,Holly J. Mitchell,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,288,Ara J. Najarian,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,3525,Imelda Padilla,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,2244,Tim Sandoval,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,290,Hilda L. Solis,Present
+3234,2026-03-26,Board of Directors - Regular Board Meeting,165699,3373,Katy Yaroslavsky,Present
+3236,2026-04-15,Construction Committee,166351,288,Ara J. Najarian,Present
+3236,2026-04-15,Construction Committee,166351,1820,James Butts,Absent
+3236,2026-04-15,Construction Committee,166351,284,Jacquelyn Dupont-Walker,Present
+3236,2026-04-15,Construction Committee,166351,2253,Fernando Dutra,Present
+3236,2026-04-15,Construction Committee,166351,3525,Imelda Padilla,Present
+3237,2026-04-15,Planning and Programming Committee,166009,284,Jacquelyn Dupont-Walker,Present
+3237,2026-04-15,Planning and Programming Committee,166009,290,Hilda L. Solis,Present
+3237,2026-04-15,Planning and Programming Committee,166009,1820,James Butts,Present
+3237,2026-04-15,Planning and Programming Committee,166009,3356,Lindsey Horvath,Present
+3237,2026-04-15,Planning and Programming Committee,166009,288,Ara J. Najarian,Present
+3238,2026-04-16,"Finance, Budget and Audit Committee",166655,2244,Tim Sandoval,Present
+3238,2026-04-16,"Finance, Budget and Audit Committee",166655,3373,Katy Yaroslavsky,Present
+3238,2026-04-16,"Finance, Budget and Audit Committee",166655,1982,Kathryn Barger,Absent
+3238,2026-04-16,"Finance, Budget and Audit Committee",166655,3356,Lindsey Horvath,Present
+3238,2026-04-16,"Finance, Budget and Audit Committee",166655,2240,Holly J. Mitchell,Present
+3239,2026-04-16,Executive Management Committee,166942,2253,Fernando Dutra,Present
+3239,2026-04-16,Executive Management Committee,166942,3355,Karen Bass,Present
+3239,2026-04-16,Executive Management Committee,166942,1982,Kathryn Barger,Present
+3239,2026-04-16,Executive Management Committee,166942,284,Jacquelyn Dupont-Walker,Present
+3239,2026-04-16,Executive Management Committee,166942,1981,Janice Hahn,Present
+3239,2026-04-16,Executive Management Committee,166942,290,Hilda L. Solis,Present
+3239,2026-04-16,Executive Management Committee,166942,2331,Gloria Roberts,Present
+3239,2026-04-16,Executive Management Committee,166942,265,Stephanie Wiggins,Present
+3239,2026-04-16,Executive Management Committee,166953,2253,Fernando Dutra,Present
+3239,2026-04-16,Executive Management Committee,166953,3355,Karen Bass,Absent
+3239,2026-04-16,Executive Management Committee,166953,1982,Kathryn Barger,Absent
+3239,2026-04-16,Executive Management Committee,166953,284,Jacquelyn Dupont-Walker,Absent
+3239,2026-04-16,Executive Management Committee,166953,1981,Janice Hahn,Present
+3239,2026-04-16,Executive Management Committee,166953,290,Hilda L. Solis,Present
+3240,2026-04-16,"Operations, Safety, and Customer Experience Committee",167269,2240,Holly J. Mitchell,Present
+3240,2026-04-16,"Operations, Safety, and Customer Experience Committee",167269,3525,Imelda Padilla,Present
+3240,2026-04-16,"Operations, Safety, and Customer Experience Committee",167269,1981,Janice Hahn,Absent
+3240,2026-04-16,"Operations, Safety, and Customer Experience Committee",167269,2244,Tim Sandoval,Absent
+3240,2026-04-16,"Operations, Safety, and Customer Experience Committee",167269,3373,Katy Yaroslavsky,Present
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,2253,Fernando Dutra,Present
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,284,Jacquelyn Dupont-Walker,Present
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,1982,Kathryn Barger,Absent
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,3355,Karen Bass,Absent
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,1820,James Butts,Present
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,1981,Janice Hahn,Absent
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,3356,Lindsey Horvath,Present
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,2240,Holly J. Mitchell,Present
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,288,Ara J. Najarian,Present
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,3525,Imelda Padilla,Present
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,2244,Tim Sandoval,Present
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,290,Hilda L. Solis,Absent
+3241,2026-04-23,Board of Directors - Regular Board Meeting,168067,3373,Katy Yaroslavsky,Present
+3242,2026-05-20,Construction Committee,168862,288,Ara J. Najarian,Present
+3242,2026-05-20,Construction Committee,168862,1820,James Butts,Present
+3242,2026-05-20,Construction Committee,168862,284,Jacquelyn Dupont-Walker,Absent
+3242,2026-05-20,Construction Committee,168862,2253,Fernando Dutra,Absent
+3242,2026-05-20,Construction Committee,168862,3525,Imelda Padilla,Present
+3243,2026-05-20,Planning and Programming Committee,168521,284,Jacquelyn Dupont-Walker,Absent
+3243,2026-05-20,Planning and Programming Committee,168521,290,Hilda L. Solis,Present
+3243,2026-05-20,Planning and Programming Committee,168521,1820,James Butts,Present
+3243,2026-05-20,Planning and Programming Committee,168521,3356,Lindsey Horvath,Present
+3243,2026-05-20,Planning and Programming Committee,168521,288,Ara J. Najarian,Present
+3244,2026-05-21,"Finance, Budget and Audit Committee",169184,2244,Tim Sandoval,Present
+3244,2026-05-21,"Finance, Budget and Audit Committee",169184,3373,Katy Yaroslavsky,Absent
+3244,2026-05-21,"Finance, Budget and Audit Committee",169184,1982,Kathryn Barger,Absent
+3244,2026-05-21,"Finance, Budget and Audit Committee",169184,3356,Lindsey Horvath,Present
+3244,2026-05-21,"Finance, Budget and Audit Committee",169184,2240,Holly J. Mitchell,Present
+3245,2026-05-21,Executive Management Committee,169476,2253,Fernando Dutra,Absent
+3245,2026-05-21,Executive Management Committee,169476,3355,Karen Bass,Absent
+3245,2026-05-21,Executive Management Committee,169476,1982,Kathryn Barger,Absent
+3245,2026-05-21,Executive Management Committee,169476,284,Jacquelyn Dupont-Walker,Present
+3245,2026-05-21,Executive Management Committee,169476,1981,Janice Hahn,Present
+3245,2026-05-21,Executive Management Committee,169476,290,Hilda L. Solis,Present
+3245,2026-05-21,Executive Management Committee,169476,2240,Holly J. Mitchell,Present
+3246,2026-05-21,"Operations, Safety, and Customer Experience Committee",169786,2240,Holly J. Mitchell,Present
+3246,2026-05-21,"Operations, Safety, and Customer Experience Committee",169786,3525,Imelda Padilla,Absent
+3246,2026-05-21,"Operations, Safety, and Customer Experience Committee",169786,1981,Janice Hahn,Present
+3246,2026-05-21,"Operations, Safety, and Customer Experience Committee",169786,2244,Tim Sandoval,Present
+3246,2026-05-21,"Operations, Safety, and Customer Experience Committee",169786,3373,Katy Yaroslavsky,Absent
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,2253,Fernando Dutra,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,284,Jacquelyn Dupont-Walker,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,1982,Kathryn Barger,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,3355,Karen Bass,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,1820,James Butts,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,1981,Janice Hahn,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,3356,Lindsey Horvath,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,2240,Holly J. Mitchell,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,288,Ara J. Najarian,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,3525,Imelda Padilla,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,2244,Tim Sandoval,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,290,Hilda L. Solis,Present
+3247,2026-05-28,Board of Directors - Regular Board Meeting,170330,3373,Katy Yaroslavsky,Present
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,2253,Fernando Dutra,Present
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,284,Jacquelyn Dupont-Walker,Present
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,1982,Kathryn Barger,Present
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,3355,Karen Bass,Present
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,1820,James Butts,Absent
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,1981,Janice Hahn,Present
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,3356,Lindsey Horvath,Present
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,2240,Holly J. Mitchell,Absent
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,288,Ara J. Najarian,Present
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,3525,Imelda Padilla,Present
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,2244,Tim Sandoval,Present
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,290,Hilda L. Solis,Absent
+3353,2026-01-14,Board of Directors - Special Board Meeting,159322,3373,Katy Yaroslavsky,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,2253,Fernando Dutra,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,284,Jacquelyn Dupont-Walker,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,1982,Kathryn Barger,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,3355,Karen Bass,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,1820,James Butts,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,1981,Janice Hahn,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,3356,Lindsey Horvath,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,2240,Holly J. Mitchell,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,288,Ara J. Najarian,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,3525,Imelda Padilla,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,2244,Tim Sandoval,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,290,Hilda L. Solis,Present
+3354,2026-01-22,Board of Directors - Regular Board Meeting,160653,3373,Katy Yaroslavsky,Present
+3409,2026-02-23,Ad Hoc Board Composition Committee,162795,288,Ara J. Najarian,Present
+3409,2026-02-23,Ad Hoc Board Composition Committee,162795,3356,Lindsey Horvath,Present
+3409,2026-02-23,Ad Hoc Board Composition Committee,162795,1982,Kathryn Barger,Absent
+3409,2026-02-23,Ad Hoc Board Composition Committee,162795,3636,Terry Dipple,Present
+3409,2026-02-23,Ad Hoc Board Composition Committee,162795,284,Jacquelyn Dupont-Walker,Present
+3409,2026-02-23,Ad Hoc Board Composition Committee,162795,2253,Fernando Dutra,Present
+3409,2026-02-23,Ad Hoc Board Composition Committee,162795,280,John Fasana,Present
+3409,2026-02-23,Ad Hoc Board Composition Committee,162795,3633,Tracy Hernandez,Present
+3409,2026-02-23,Ad Hoc Board Composition Committee,162795,3634,Jeremy Oliver-Ronceros,Present
+3409,2026-02-23,Ad Hoc Board Composition Committee,162795,3635,Ernesto Medrano,Present
+3409,2026-02-23,Ad Hoc Board Composition Committee,162795,3525,Imelda Padilla,Present
+3426,2026-03-23,Ad Hoc Board Composition Committee,165973,288,Ara J. Najarian,Present
+3426,2026-03-23,Ad Hoc Board Composition Committee,165973,3356,Lindsey Horvath,Present
+3426,2026-03-23,Ad Hoc Board Composition Committee,165973,1982,Kathryn Barger,Present
+3426,2026-03-23,Ad Hoc Board Composition Committee,165973,3636,Terry Dipple,Present
+3426,2026-03-23,Ad Hoc Board Composition Committee,165973,284,Jacquelyn Dupont-Walker,Present
+3426,2026-03-23,Ad Hoc Board Composition Committee,165973,2253,Fernando Dutra,Present
+3426,2026-03-23,Ad Hoc Board Composition Committee,165973,280,John Fasana,Present
+3426,2026-03-23,Ad Hoc Board Composition Committee,165973,3633,Tracy Hernandez,Absent
+3426,2026-03-23,Ad Hoc Board Composition Committee,165973,3634,Jeremy Oliver-Ronceros,Present
+3426,2026-03-23,Ad Hoc Board Composition Committee,165973,3635,Ernesto Medrano,Absent
+3426,2026-03-23,Ad Hoc Board Composition Committee,165973,3525,Imelda Padilla,Present
+3453,2026-06-29,Ad Hoc Board Composition Committee,171841,288,Ara J. Najarian,Present
+3453,2026-06-29,Ad Hoc Board Composition Committee,171841,3356,Lindsey Horvath,Present
+3453,2026-06-29,Ad Hoc Board Composition Committee,171841,1982,Kathryn Barger,Present
+3453,2026-06-29,Ad Hoc Board Composition Committee,171841,3636,Terry Dipple,Present
+3453,2026-06-29,Ad Hoc Board Composition Committee,171841,284,Jacquelyn Dupont-Walker,Present
+3453,2026-06-29,Ad Hoc Board Composition Committee,171841,2253,Fernando Dutra,Present
+3453,2026-06-29,Ad Hoc Board Composition Committee,171841,280,John Fasana,Present
+3453,2026-06-29,Ad Hoc Board Composition Committee,171841,3633,Tracy Hernandez,Present
+3453,2026-06-29,Ad Hoc Board Composition Committee,171841,3634,Jeremy Oliver-Ronceros,Present
+3453,2026-06-29,Ad Hoc Board Composition Committee,171841,3635,Ernesto Medrano,Present
+3453,2026-06-29,Ad Hoc Board Composition Committee,171841,3525,Imelda Padilla,Present
+3472,2026-05-21,Budget Public Hearing,169156,2244,Tim Sandoval,Present
+3472,2026-05-21,Budget Public Hearing,169156,3373,Katy Yaroslavsky,Absent
+3472,2026-05-21,Budget Public Hearing,169156,1982,Kathryn Barger,Absent
+3472,2026-05-21,Budget Public Hearing,169156,3356,Lindsey Horvath,Present
+3472,2026-05-21,Budget Public Hearing,169156,2240,Holly J. Mitchell,Present
+3489,2026-05-28,LA SAFE,170285,2253,Fernando Dutra,Present
+3489,2026-05-28,LA SAFE,170285,284,Jacquelyn Dupont-Walker,Present
+3489,2026-05-28,LA SAFE,170285,1982,Kathryn Barger,Present
+3489,2026-05-28,LA SAFE,170285,3355,Karen Bass,Present
+3489,2026-05-28,LA SAFE,170285,1820,James Butts,Present
+3489,2026-05-28,LA SAFE,170285,1981,Janice Hahn,Present
+3489,2026-05-28,LA SAFE,170285,3356,Lindsey Horvath,Present
+3489,2026-05-28,LA SAFE,170285,2240,Holly J. Mitchell,Present
+3489,2026-05-28,LA SAFE,170285,288,Ara J. Najarian,Present
+3489,2026-05-28,LA SAFE,170285,3525,Imelda Padilla,Present
+3489,2026-05-28,LA SAFE,170285,2244,Tim Sandoval,Present
+3489,2026-05-28,LA SAFE,170285,290,Hilda L. Solis,Present
+3489,2026-05-28,LA SAFE,170285,3373,Katy Yaroslavsky,Present
+3513,2026-07-15,Planning and Programming Committee,172029,284,Jacquelyn Dupont-Walker,Present
+3513,2026-07-15,Planning and Programming Committee,172029,290,Hilda L. Solis,Present
+3513,2026-07-15,Planning and Programming Committee,172029,3356,Lindsey Horvath,Present
+3513,2026-07-15,Planning and Programming Committee,172029,2240,Holly J. Mitchell,Present
+3513,2026-07-15,Planning and Programming Committee,172029,288,Ara J. Najarian,Present
+3513,2026-07-15,Planning and Programming Committee,172029,3667,Rex Richardson,Absent
+3514,2026-07-15,Construction Committee,172048,3525,Imelda Padilla,Present
+3514,2026-07-15,Construction Committee,172048,1820,James Butts,Absent
+3514,2026-07-15,Construction Committee,172048,288,Ara J. Najarian,Present
+3514,2026-07-15,Construction Committee,172048,3667,Rex Richardson,Absent
+3515,2026-07-16,"Finance, Budget and Audit Committee",172067,2244,Tim Sandoval,Present
+3515,2026-07-16,"Finance, Budget and Audit Committee",172067,3373,Katy Yaroslavsky,Absent
+3515,2026-07-16,"Finance, Budget and Audit Committee",172067,1982,Kathryn Barger,Absent
+3515,2026-07-16,"Finance, Budget and Audit Committee",172067,288,Ara J. Najarian,Present
+3516,2026-07-16,Executive Management Committee,172086,3355,Karen Bass,Absent
+3516,2026-07-16,Executive Management Committee,172086,1982,Kathryn Barger,Absent
+3516,2026-07-16,Executive Management Committee,172086,284,Jacquelyn Dupont-Walker,Present
+3516,2026-07-16,Executive Management Committee,172086,2244,Tim Sandoval,Present
+3516,2026-07-16,Executive Management Committee,172086,290,Hilda L. Solis,Present
+3517,2026-07-16,"Operations, Safety, and Customer Experience Committee",172105,2240,Holly J. Mitchell,Absent
+3517,2026-07-16,"Operations, Safety, and Customer Experience Committee",172105,3525,Imelda Padilla,Absent
+3517,2026-07-16,"Operations, Safety, and Customer Experience Committee",172105,1820,James Butts,Absent
+3517,2026-07-16,"Operations, Safety, and Customer Experience Committee",172105,284,Jacquelyn Dupont-Walker,Present
+3517,2026-07-16,"Operations, Safety, and Customer Experience Committee",172105,1981,Janice Hahn,Present
+3517,2026-07-16,"Operations, Safety, and Customer Experience Committee",172105,3373,Katy Yaroslavsky,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,3355,Karen Bass,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,1982,Kathryn Barger,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,2244,Tim Sandoval,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,1820,James Butts,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,284,Jacquelyn Dupont-Walker,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,1981,Janice Hahn,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,3356,Lindsey Horvath,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,2240,Holly J. Mitchell,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,288,Ara J. Najarian,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,3525,Imelda Padilla,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,3667,Rex Richardson,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,290,Hilda L. Solis,Present
+3518,2026-07-23,Board of Directors - Regular Board Meeting,172310,3373,Katy Yaroslavsky,Present
+3538,2026-09-16,Planning and Programming Committee,172551,284,Jacquelyn Dupont-Walker,Present
+3538,2026-09-16,Planning and Programming Committee,172551,290,Hilda L. Solis,Present
+3538,2026-09-16,Planning and Programming Committee,172551,1820,James Butts,Present
+3538,2026-09-16,Planning and Programming Committee,172551,3356,Lindsey Horvath,Present
+3538,2026-09-16,Planning and Programming Committee,172551,2240,Holly J. Mitchell,Present
+3538,2026-09-16,Planning and Programming Committee,172551,3667,Rex Richardson,Present
+3540,2026-09-17,"Finance, Budget and Audit Committee",172622,2244,Tim Sandoval,Present
+3540,2026-09-17,"Finance, Budget and Audit Committee",172622,3373,Katy Yaroslavsky,Present
+3540,2026-09-17,"Finance, Budget and Audit Committee",172622,1982,Kathryn Barger,Absent
+3540,2026-09-17,"Finance, Budget and Audit Committee",172622,3525,Imelda Padilla,Present
+3540,2026-09-17,"Finance, Budget and Audit Committee",172622,288,Ara J. Najarian,Present
+3541,2026-09-17,Executive Management Committee,172641,3355,Karen Bass,Present
+3541,2026-09-17,Executive Management Committee,172641,1982,Kathryn Barger,Absent
+3541,2026-09-17,Executive Management Committee,172641,284,Jacquelyn Dupont-Walker,Absent
+3541,2026-09-17,Executive Management Committee,172641,2244,Tim Sandoval,Present
+3541,2026-09-17,Executive Management Committee,172641,290,Hilda L. Solis,Present
+3544,2026-09-17,"Operations, Safety, and Customer Experience Committee",172660,2240,Holly J. Mitchell,Present
+3544,2026-09-17,"Operations, Safety, and Customer Experience Committee",172660,3525,Imelda Padilla,Present
+3544,2026-09-17,"Operations, Safety, and Customer Experience Committee",172660,284,Jacquelyn Dupont-Walker,Present
+3544,2026-09-17,"Operations, Safety, and Customer Experience Committee",172660,1981,Janice Hahn,Present
+3544,2026-09-17,"Operations, Safety, and Customer Experience Committee",172660,288,Ara J. Najarian,Present
+3544,2026-09-17,"Operations, Safety, and Customer Experience Committee",172660,3373,Katy Yaroslavsky,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,3355,Karen Bass,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,1982,Kathryn Barger,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,2244,Tim Sandoval,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,1820,James Butts,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,284,Jacquelyn Dupont-Walker,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,1981,Janice Hahn,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,3356,Lindsey Horvath,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,2240,Holly J. Mitchell,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,288,Ara J. Najarian,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,3525,Imelda Padilla,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,3667,Rex Richardson,Present
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,290,Hilda L. Solis,Absent
+3545,2026-09-24,Board of Directors - Regular Board Meeting,172893,3373,Katy Yaroslavsky,Present
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,3355,Karen Bass,Present
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,1982,Kathryn Barger,Present
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,1820,James Butts,Absent
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,284,Jacquelyn Dupont-Walker,Present
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,1981,Janice Hahn,Absent
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,3356,Lindsey Horvath,Present
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,2240,Holly J. Mitchell,Present
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,288,Ara J. Najarian,Absent
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,3525,Imelda Padilla,Absent
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,3667,Rex Richardson,Present
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,2244,Tim Sandoval,Absent
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,290,Hilda L. Solis,Present
+3580,2026-09-16,Board of Directors - Special Board Meeting,172597,3373,Katy Yaroslavsky,Absent

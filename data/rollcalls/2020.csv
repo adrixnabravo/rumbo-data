@@ -1,0 +1,245 @@
+event_id,event_date,body,item_id,person_id,person,status
+1626,2020-01-15,"Finance, Budget and Audit Committee",48331,1982,Kathryn Barger,Present
+1626,2020-01-15,"Finance, Budget and Audit Committee",48331,288,Ara J. Najarian,Present
+1626,2020-01-15,"Finance, Budget and Audit Committee",48331,284,Jacquelyn Dupont-Walker,Present
+1626,2020-01-15,"Finance, Budget and Audit Committee",48331,286,Paul Krekorian,Present
+1626,2020-01-15,"Finance, Budget and Audit Committee",48331,279,Mark Ridley-Thomas,Present
+1627,2020-01-15,Planning and Programming Committee,48108,290,Hilda L. Solis,Present
+1627,2020-01-15,Planning and Programming Committee,48108,284,Jacquelyn Dupont-Walker,Present
+1627,2020-01-15,Planning and Programming Committee,48108,282,Mike Bonin,Present
+1627,2020-01-15,Planning and Programming Committee,48108,1981,Janice Hahn,Present
+1627,2020-01-15,Planning and Programming Committee,48108,288,Ara J. Najarian,Present
+1627,2020-01-15,Planning and Programming Committee,48108,290,Hilda L. Solis,Present
+1627,2020-01-15,Planning and Programming Committee,48108,284,Jacquelyn Dupont-Walker,Present
+1627,2020-01-15,Planning and Programming Committee,48108,282,Mike Bonin,Present
+1627,2020-01-15,Planning and Programming Committee,48108,1981,Janice Hahn,Present
+1627,2020-01-15,Planning and Programming Committee,48108,288,Ara J. Najarian,Present
+1628,2020-01-16,"Operations, Safety, and Customer Experience Committee",48480,282,Mike Bonin,Present
+1628,2020-01-16,"Operations, Safety, and Customer Experience Committee",48480,279,Mark Ridley-Thomas,Present
+1628,2020-01-16,"Operations, Safety, and Customer Experience Committee",48480,284,Jacquelyn Dupont-Walker,Present
+1628,2020-01-16,"Operations, Safety, and Customer Experience Committee",48480,280,John Fasana,Present
+1628,2020-01-16,"Operations, Safety, and Customer Experience Committee",48480,1986,Robert Garcia,Present
+1629,2020-01-16,Construction Committee,48804,1981,Janice Hahn,Present
+1629,2020-01-16,Construction Committee,48804,1986,Robert Garcia,Present
+1629,2020-01-16,Construction Committee,48804,1982,Kathryn Barger,Present
+1629,2020-01-16,Construction Committee,48804,284,Jacquelyn Dupont-Walker,Present
+1629,2020-01-16,Construction Committee,48804,287,Sheila Kuehl,Present
+1630,2020-01-16,Executive Management Committee,48819,1820,James Butts,Present
+1630,2020-01-16,Executive Management Committee,48819,278,Eric Garcetti,Present
+1630,2020-01-16,Executive Management Committee,48819,286,Paul Krekorian,Present
+1630,2020-01-16,Executive Management Committee,48819,287,Sheila Kuehl,Present
+1630,2020-01-16,Executive Management Committee,48819,280,John Fasana,Present
+1630,2020-01-16,Executive Management Committee,48819,290,Hilda L. Solis,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,1820,James Butts,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,278,Eric Garcetti,Absent
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,290,Hilda L. Solis,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,1982,Kathryn Barger,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,282,Mike Bonin,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,284,Jacquelyn Dupont-Walker,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,280,John Fasana,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,1986,Robert Garcia,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,1981,Janice Hahn,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,286,Paul Krekorian,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,287,Sheila Kuehl,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,288,Ara J. Najarian,Present
+1632,2020-01-23,Board of Directors - Regular Board Meeting,47910,279,Mark Ridley-Thomas,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,1820,James Butts,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,278,Eric Garcetti,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,290,Hilda L. Solis,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,1982,Kathryn Barger,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,282,Mike Bonin,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,284,Jacquelyn Dupont-Walker,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,280,John Fasana,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,1986,Robert Garcia,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,1981,Janice Hahn,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,286,Paul Krekorian,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,287,Sheila Kuehl,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,288,Ara J. Najarian,Present
+1782,2020-06-25,Board of Directors - Regular Board Meeting,55468,279,Mark Ridley-Thomas,Present
+1783,2020-08-19,Planning and Programming Committee,55928,284,Jacquelyn Dupont-Walker,Present
+1783,2020-08-19,Planning and Programming Committee,55928,288,Ara J. Najarian,Present
+1783,2020-08-19,Planning and Programming Committee,55928,282,Mike Bonin,Present
+1783,2020-08-19,Planning and Programming Committee,55928,1981,Janice Hahn,Present
+1783,2020-08-19,Planning and Programming Committee,55928,290,Hilda L. Solis,Present
+1785,2020-08-19,"Finance, Budget and Audit Committee",56182,1820,James Butts,Present
+1785,2020-08-19,"Finance, Budget and Audit Committee",56182,1982,Kathryn Barger,Present
+1785,2020-08-19,"Finance, Budget and Audit Committee",56182,280,John Fasana,Present
+1785,2020-08-19,"Finance, Budget and Audit Committee",56182,286,Paul Krekorian,Present
+1785,2020-08-19,"Finance, Budget and Audit Committee",56182,279,Mark Ridley-Thomas,Absent
+1786,2020-08-20,"Operations, Safety, and Customer Experience Committee",56365,1986,Robert Garcia,Present
+1786,2020-08-20,"Operations, Safety, and Customer Experience Committee",56365,282,Mike Bonin,Present
+1786,2020-08-20,"Operations, Safety, and Customer Experience Committee",56365,284,Jacquelyn Dupont-Walker,Present
+1786,2020-08-20,"Operations, Safety, and Customer Experience Committee",56365,287,Sheila Kuehl,Absent
+1786,2020-08-20,"Operations, Safety, and Customer Experience Committee",56365,279,Mark Ridley-Thomas,Absent
+1787,2020-08-20,Construction Committee,56585,1981,Janice Hahn,Absent
+1787,2020-08-20,Construction Committee,56585,286,Paul Krekorian,Present
+1787,2020-08-20,Construction Committee,56585,1982,Kathryn Barger,Present
+1787,2020-08-20,Construction Committee,56585,284,Jacquelyn Dupont-Walker,Present
+1787,2020-08-20,Construction Committee,56585,1986,Robert Garcia,Present
+1788,2020-08-20,Executive Management Committee,56764,278,Eric Garcetti,Present
+1788,2020-08-20,Executive Management Committee,56764,290,Hilda L. Solis,Present
+1788,2020-08-20,Executive Management Committee,56764,288,Ara J. Najarian,Present
+1788,2020-08-20,Executive Management Committee,56764,1820,James Butts,Present
+1788,2020-08-20,Executive Management Committee,56764,280,John Fasana,Present
+1788,2020-08-20,Executive Management Committee,56764,287,Sheila Kuehl,Absent
+1791,2020-06-25,LA SAFE,54160,1820,James Butts,Present
+1791,2020-06-25,LA SAFE,54160,278,Eric Garcetti,Absent
+1791,2020-06-25,LA SAFE,54160,290,Hilda L. Solis,Present
+1791,2020-06-25,LA SAFE,54160,280,John Fasana,Present
+1791,2020-06-25,LA SAFE,54160,286,Paul Krekorian,Present
+1791,2020-06-25,LA SAFE,54160,282,Mike Bonin,Present
+1791,2020-06-25,LA SAFE,54160,1986,Robert Garcia,Present
+1791,2020-06-25,LA SAFE,54160,287,Sheila Kuehl,Present
+1791,2020-06-25,LA SAFE,54160,1981,Janice Hahn,Present
+1791,2020-06-25,LA SAFE,54160,1982,Kathryn Barger,Present
+1791,2020-06-25,LA SAFE,54160,284,Jacquelyn Dupont-Walker,Present
+1791,2020-06-25,LA SAFE,54160,279,Mark Ridley-Thomas,Absent
+1791,2020-06-25,LA SAFE,54160,288,Ara J. Najarian,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,278,Eric Garcetti,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,290,Hilda L. Solis,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,288,Ara J. Najarian,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,1982,Kathryn Barger,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,282,Mike Bonin,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,1820,James Butts,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,284,Jacquelyn Dupont-Walker,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,280,John Fasana,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,1986,Robert Garcia,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,1981,Janice Hahn,Absent
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,286,Paul Krekorian,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,287,Sheila Kuehl,Present
+1802,2020-08-27,Board of Directors - Regular Board Meeting,56969,279,Mark Ridley-Thomas,Present
+1857,2020-09-16,"Finance, Budget and Audit Committee",57361,1820,James Butts,Present
+1857,2020-09-16,"Finance, Budget and Audit Committee",57361,1982,Kathryn Barger,Present
+1857,2020-09-16,"Finance, Budget and Audit Committee",57361,280,John Fasana,Present
+1857,2020-09-16,"Finance, Budget and Audit Committee",57361,286,Paul Krekorian,Present
+1857,2020-09-16,"Finance, Budget and Audit Committee",57361,279,Mark Ridley-Thomas,Absent
+1858,2020-09-16,Planning and Programming Committee,57546,284,Jacquelyn Dupont-Walker,Present
+1858,2020-09-16,Planning and Programming Committee,57546,288,Ara J. Najarian,Present
+1858,2020-09-16,Planning and Programming Committee,57546,282,Mike Bonin,Present
+1858,2020-09-16,Planning and Programming Committee,57546,1981,Janice Hahn,Present
+1858,2020-09-16,Planning and Programming Committee,57546,290,Hilda L. Solis,Present
+1859,2020-09-17,"Operations, Safety, and Customer Experience Committee",57798,1986,Robert Garcia,Present
+1859,2020-09-17,"Operations, Safety, and Customer Experience Committee",57798,282,Mike Bonin,Present
+1859,2020-09-17,"Operations, Safety, and Customer Experience Committee",57798,284,Jacquelyn Dupont-Walker,Present
+1859,2020-09-17,"Operations, Safety, and Customer Experience Committee",57798,287,Sheila Kuehl,Present
+1859,2020-09-17,"Operations, Safety, and Customer Experience Committee",57798,279,Mark Ridley-Thomas,Absent
+1860,2020-09-17,Construction Committee,58016,1981,Janice Hahn,Present
+1860,2020-09-17,Construction Committee,58016,286,Paul Krekorian,Present
+1860,2020-09-17,Construction Committee,58016,1982,Kathryn Barger,Present
+1860,2020-09-17,Construction Committee,58016,284,Jacquelyn Dupont-Walker,Present
+1860,2020-09-17,Construction Committee,58016,1986,Robert Garcia,Present
+1861,2020-09-17,Executive Management Committee,58197,278,Eric Garcetti,Present
+1861,2020-09-17,Executive Management Committee,58197,290,Hilda L. Solis,Present
+1861,2020-09-17,Executive Management Committee,58197,288,Ara J. Najarian,Present
+1861,2020-09-17,Executive Management Committee,58197,1820,James Butts,Present
+1861,2020-09-17,Executive Management Committee,58197,280,John Fasana,Present
+1861,2020-09-17,Executive Management Committee,58197,287,Sheila Kuehl,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,278,Eric Garcetti,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,290,Hilda L. Solis,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,288,Ara J. Najarian,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,1982,Kathryn Barger,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,282,Mike Bonin,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,1820,James Butts,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,284,Jacquelyn Dupont-Walker,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,280,John Fasana,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,1986,Robert Garcia,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,1981,Janice Hahn,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,286,Paul Krekorian,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,287,Sheila Kuehl,Present
+1862,2020-09-24,Board of Directors - Regular Board Meeting,58401,279,Mark Ridley-Thomas,Present
+1876,2020-10-14,"Finance, Budget and Audit Committee",58793,1820,James Butts,Present
+1876,2020-10-14,"Finance, Budget and Audit Committee",58793,1982,Kathryn Barger,Absent
+1876,2020-10-14,"Finance, Budget and Audit Committee",58793,280,John Fasana,Present
+1876,2020-10-14,"Finance, Budget and Audit Committee",58793,286,Paul Krekorian,Present
+1876,2020-10-14,"Finance, Budget and Audit Committee",58793,279,Mark Ridley-Thomas,Absent
+1877,2020-10-14,Planning and Programming Committee,59213,284,Jacquelyn Dupont-Walker,Absent
+1877,2020-10-14,Planning and Programming Committee,59213,288,Ara J. Najarian,Present
+1877,2020-10-14,Planning and Programming Committee,59213,282,Mike Bonin,Present
+1877,2020-10-14,Planning and Programming Committee,59213,1981,Janice Hahn,Present
+1877,2020-10-14,Planning and Programming Committee,59213,290,Hilda L. Solis,Present
+1878,2020-10-15,"Operations, Safety, and Customer Experience Committee",59469,1986,Robert Garcia,Present
+1878,2020-10-15,"Operations, Safety, and Customer Experience Committee",59469,282,Mike Bonin,Present
+1878,2020-10-15,"Operations, Safety, and Customer Experience Committee",59469,284,Jacquelyn Dupont-Walker,Present
+1878,2020-10-15,"Operations, Safety, and Customer Experience Committee",59469,287,Sheila Kuehl,Present
+1878,2020-10-15,"Operations, Safety, and Customer Experience Committee",59469,279,Mark Ridley-Thomas,Absent
+1879,2020-10-15,Construction Committee,59886,1981,Janice Hahn,Present
+1879,2020-10-15,Construction Committee,59886,286,Paul Krekorian,Present
+1879,2020-10-15,Construction Committee,59886,1982,Kathryn Barger,Present
+1879,2020-10-15,Construction Committee,59886,284,Jacquelyn Dupont-Walker,Present
+1879,2020-10-15,Construction Committee,59886,1986,Robert Garcia,Present
+1880,2020-10-15,Executive Management Committee,59007,278,Eric Garcetti,Present
+1880,2020-10-15,Executive Management Committee,59007,290,Hilda L. Solis,Present
+1880,2020-10-15,Executive Management Committee,59007,288,Ara J. Najarian,Present
+1880,2020-10-15,Executive Management Committee,59007,1820,James Butts,Present
+1880,2020-10-15,Executive Management Committee,59007,280,John Fasana,Present
+1880,2020-10-15,Executive Management Committee,59007,287,Sheila Kuehl,Present
+1881,2020-11-18,"Finance, Budget and Audit Committee",60477,1820,James Butts,Present
+1881,2020-11-18,"Finance, Budget and Audit Committee",60477,1982,Kathryn Barger,Present
+1881,2020-11-18,"Finance, Budget and Audit Committee",60477,280,John Fasana,Present
+1881,2020-11-18,"Finance, Budget and Audit Committee",60477,286,Paul Krekorian,Present
+1881,2020-11-18,"Finance, Budget and Audit Committee",60477,279,Mark Ridley-Thomas,Absent
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,278,Eric Garcetti,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,290,Hilda L. Solis,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,288,Ara J. Najarian,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,1982,Kathryn Barger,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,282,Mike Bonin,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,1820,James Butts,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,284,Jacquelyn Dupont-Walker,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,280,John Fasana,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,1986,Robert Garcia,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,1981,Janice Hahn,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,286,Paul Krekorian,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,287,Sheila Kuehl,Present
+1882,2020-10-22,Board of Directors - Regular Board Meeting,60105,279,Mark Ridley-Thomas,Present
+1883,2020-11-18,Planning and Programming Committee,60673,284,Jacquelyn Dupont-Walker,Present
+1883,2020-11-18,Planning and Programming Committee,60673,288,Ara J. Najarian,Present
+1883,2020-11-18,Planning and Programming Committee,60673,282,Mike Bonin,Present
+1883,2020-11-18,Planning and Programming Committee,60673,1981,Janice Hahn,Present
+1883,2020-11-18,Planning and Programming Committee,60673,290,Hilda L. Solis,Absent
+1884,2020-11-19,"Operations, Safety, and Customer Experience Committee",60930,1986,Robert Garcia,Present
+1884,2020-11-19,"Operations, Safety, and Customer Experience Committee",60930,282,Mike Bonin,Present
+1884,2020-11-19,"Operations, Safety, and Customer Experience Committee",60930,284,Jacquelyn Dupont-Walker,Present
+1884,2020-11-19,"Operations, Safety, and Customer Experience Committee",60930,287,Sheila Kuehl,Present
+1884,2020-11-19,"Operations, Safety, and Customer Experience Committee",60930,279,Mark Ridley-Thomas,Absent
+1885,2020-11-19,Construction Committee,59700,1981,Janice Hahn,Present
+1885,2020-11-19,Construction Committee,59700,286,Paul Krekorian,Present
+1885,2020-11-19,Construction Committee,59700,1982,Kathryn Barger,Present
+1885,2020-11-19,Construction Committee,59700,284,Jacquelyn Dupont-Walker,Present
+1885,2020-11-19,Construction Committee,59700,1986,Robert Garcia,Absent
+1886,2020-11-19,Executive Management Committee,61167,278,Eric Garcetti,Present
+1886,2020-11-19,Executive Management Committee,61167,290,Hilda L. Solis,Present
+1886,2020-11-19,Executive Management Committee,61167,288,Ara J. Najarian,Present
+1886,2020-11-19,Executive Management Committee,61167,1820,James Butts,Present
+1886,2020-11-19,Executive Management Committee,61167,280,John Fasana,Present
+1886,2020-11-19,Executive Management Committee,61167,287,Sheila Kuehl,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,278,Eric Garcetti,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,290,Hilda L. Solis,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,288,Ara J. Najarian,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,1982,Kathryn Barger,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,282,Mike Bonin,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,1820,James Butts,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,284,Jacquelyn Dupont-Walker,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,280,John Fasana,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,1986,Robert Garcia,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,1981,Janice Hahn,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,286,Paul Krekorian,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,287,Sheila Kuehl,Present
+1887,2020-12-03,Board of Directors - Regular Board Meeting,61412,279,Mark Ridley-Thomas,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,278,Eric Garcetti,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,290,Hilda L. Solis,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,288,Ara J. Najarian,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,1982,Kathryn Barger,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,282,Mike Bonin,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,1820,James Butts,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,284,Jacquelyn Dupont-Walker,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,280,John Fasana,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,1986,Robert Garcia,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,1981,Janice Hahn,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,286,Paul Krekorian,Absent
+1919,2020-12-03,Crenshaw Project Corporation,60224,287,Sheila Kuehl,Present
+1919,2020-12-03,Crenshaw Project Corporation,60224,279,Mark Ridley-Thomas,Present
+1929,2020-12-02,Measure M Independent Taxpayer Oversight Committee,61561,2212,Linda Briskman,Present
+1929,2020-12-02,Measure M Independent Taxpayer Oversight Committee,61561,2213,Ryan Campbell,Present
+1929,2020-12-02,Measure M Independent Taxpayer Oversight Committee,61561,2215,Virginia Tanzmann,Present
+1929,2020-12-02,Measure M Independent Taxpayer Oversight Committee,61561,2217,Richard Stanger,Present
+1929,2020-12-02,Measure M Independent Taxpayer Oversight Committee,61561,2218,Gregory Amparano ,Present

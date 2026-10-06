@@ -1,0 +1,355 @@
+event_id,event_date,body,item_id,person_id,person,status
+1180,2017-01-19,Executive Management Committee,21990,280,John Fasana,Present
+1180,2017-01-19,Executive Management Committee,21990,278,Eric Garcetti,Present
+1180,2017-01-19,Executive Management Committee,21990,1820,James Butts,Present
+1180,2017-01-19,Executive Management Committee,21990,287,Sheila Kuehl,Present
+1180,2017-01-19,Executive Management Committee,21990,279,Mark Ridley-Thomas,Present
+1181,2017-01-18,"Finance, Budget and Audit Committee",21600,284,Jacquelyn Dupont-Walker,Present
+1181,2017-01-18,"Finance, Budget and Audit Committee",21600,1981,Janice Hahn,Present
+1181,2017-01-18,"Finance, Budget and Audit Committee",21600,1986,Robert Garcia,Absent
+1181,2017-01-18,"Finance, Budget and Audit Committee",21600,288,Ara J. Najarian,Present
+1181,2017-01-18,"Finance, Budget and Audit Committee",21600,290,Hilda L. Solis,Present
+1182,2017-01-18,Planning and Programming Committee,21654,290,Hilda L. Solis,Present
+1182,2017-01-18,Planning and Programming Committee,21654,286,Paul Krekorian,Present
+1182,2017-01-18,Planning and Programming Committee,21654,1982,Kathryn Barger,Absent
+1182,2017-01-18,Planning and Programming Committee,21654,288,Ara J. Najarian,Present
+1182,2017-01-18,Planning and Programming Committee,21654,1820,James Butts,Present
+1183,2017-01-19,"System Safety, Security and Operations Committee",21854,282,Mike Bonin,Present
+1183,2017-01-19,"System Safety, Security and Operations Committee",21854,1982,Kathryn Barger,Present
+1183,2017-01-19,"System Safety, Security and Operations Committee",21854,1986,Robert Garcia,Present
+1183,2017-01-19,"System Safety, Security and Operations Committee",21854,286,Paul Krekorian,Present
+1183,2017-01-19,"System Safety, Security and Operations Committee",21854,279,Mark Ridley-Thomas,Present
+1186,2017-02-16,Executive Management Committee,41873,280,John Fasana,Present
+1186,2017-02-16,Executive Management Committee,41873,278,Eric Garcetti,Present
+1186,2017-02-16,Executive Management Committee,41873,1820,James Butts,Present
+1186,2017-02-16,Executive Management Committee,41873,287,Sheila Kuehl,Present
+1186,2017-02-16,Executive Management Committee,41873,279,Mark Ridley-Thomas,Present
+1186,2017-02-16,Executive Management Committee,41873,1821,Carrie Bowen,Present
+1186,2017-02-16,Executive Management Committee,41873,1848,Phil Washington,Present
+1186,2017-02-16,Executive Management Committee,41874,280,John Fasana,Present
+1186,2017-02-16,Executive Management Committee,41874,278,Eric Garcetti,Present
+1186,2017-02-16,Executive Management Committee,41874,1820,James Butts,Absent
+1186,2017-02-16,Executive Management Committee,41874,287,Sheila Kuehl,Present
+1186,2017-02-16,Executive Management Committee,41874,279,Mark Ridley-Thomas,Absent
+1186,2017-02-16,Executive Management Committee,41874,1821,Carrie Bowen,Absent
+1186,2017-02-16,Executive Management Committee,41874,1848,Phil Washington,Present
+1187,2017-02-16,Construction Committee,41870,287,Sheila Kuehl,Present
+1187,2017-02-16,Construction Committee,41870,1986,Robert Garcia,Present
+1187,2017-02-16,Construction Committee,41870,282,Mike Bonin,Present
+1187,2017-02-16,Construction Committee,41870,284,Jacquelyn Dupont-Walker,Present
+1187,2017-02-16,Construction Committee,41870,1981,Janice Hahn,Present
+1187,2017-02-16,Construction Committee,41870,1821,Carrie Bowen,Absent
+1187,2017-02-16,Construction Committee,41870,1848,Phil Washington,Present
+1189,2017-02-16,"System Safety, Security and Operations Committee",41871,282,Mike Bonin,Present
+1189,2017-02-16,"System Safety, Security and Operations Committee",41871,1982,Kathryn Barger,Present
+1189,2017-02-16,"System Safety, Security and Operations Committee",41871,1986,Robert Garcia,Present
+1189,2017-02-16,"System Safety, Security and Operations Committee",41871,286,Paul Krekorian,Absent
+1189,2017-02-16,"System Safety, Security and Operations Committee",41871,279,Mark Ridley-Thomas,Absent
+1189,2017-02-16,"System Safety, Security and Operations Committee",41871,1821,Carrie Bowen,Absent
+1189,2017-02-16,"System Safety, Security and Operations Committee",41871,1848,Phil Washington,Present
+1189,2017-02-16,"System Safety, Security and Operations Committee",41872,282,Mike Bonin,Present
+1189,2017-02-16,"System Safety, Security and Operations Committee",41872,1982,Kathryn Barger,Present
+1189,2017-02-16,"System Safety, Security and Operations Committee",41872,1986,Robert Garcia,Present
+1189,2017-02-16,"System Safety, Security and Operations Committee",41872,286,Paul Krekorian,Present
+1189,2017-02-16,"System Safety, Security and Operations Committee",41872,279,Mark Ridley-Thomas,Absent
+1189,2017-02-16,"System Safety, Security and Operations Committee",41872,1821,Carrie Bowen,Absent
+1189,2017-02-16,"System Safety, Security and Operations Committee",41872,1848,Phil Washington,Present
+1190,2017-02-15,"Finance, Budget and Audit Committee",41867,284,Jacquelyn Dupont-Walker,Present
+1190,2017-02-15,"Finance, Budget and Audit Committee",41867,1981,Janice Hahn,Present
+1190,2017-02-15,"Finance, Budget and Audit Committee",41867,1986,Robert Garcia,Present
+1190,2017-02-15,"Finance, Budget and Audit Committee",41867,288,Ara J. Najarian,Present
+1190,2017-02-15,"Finance, Budget and Audit Committee",41867,290,Hilda L. Solis,Present
+1190,2017-02-15,"Finance, Budget and Audit Committee",41867,1821,Carrie Bowen,Present
+1190,2017-02-15,"Finance, Budget and Audit Committee",41867,1848,Phil Washington,Present
+1191,2017-02-15,Planning and Programming Committee,41869,290,Hilda L. Solis,Present
+1191,2017-02-15,Planning and Programming Committee,41869,286,Paul Krekorian,Present
+1191,2017-02-15,Planning and Programming Committee,41869,1982,Kathryn Barger,Absent
+1191,2017-02-15,Planning and Programming Committee,41869,464,James Butler,Present
+1191,2017-02-15,Planning and Programming Committee,41869,288,Ara J. Najarian,Absent
+1191,2017-02-15,Planning and Programming Committee,41869,1821,Carrie Bowen,Present
+1191,2017-02-15,Planning and Programming Committee,41869,1848,Phil Washington,Present
+1192,2017-01-18,"Ad Hoc Congestion, Highway and Roads Committee",21594,280,John Fasana,Present
+1192,2017-01-18,"Ad Hoc Congestion, Highway and Roads Committee",21594,288,Ara J. Najarian,Present
+1192,2017-01-18,"Ad Hoc Congestion, Highway and Roads Committee",21594,1982,Kathryn Barger,Absent
+1192,2017-01-18,"Ad Hoc Congestion, Highway and Roads Committee",21594,284,Jacquelyn Dupont-Walker,Present
+1192,2017-01-18,"Ad Hoc Congestion, Highway and Roads Committee",21594,1981,Janice Hahn,Present
+1192,2017-01-18,"Ad Hoc Congestion, Highway and Roads Committee",21594,1821,Carrie Bowen,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22959,289,Pam O'Connor,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22959,282,Mike Bonin,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22959,1983,Marisa Creter,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22959,280,John Fasana,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22959,1044,Nancy Pfeffer,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22959,279,Mark Ridley-Thomas,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22959,290,Hilda L. Solis,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22959,1821,Carrie Bowen,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22959,1848,Phil Washington,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22960,289,Pam O'Connor,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22960,282,Mike Bonin,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22960,1983,Marisa Creter,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22960,280,John Fasana,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22960,1044,Nancy Pfeffer,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22960,279,Mark Ridley-Thomas,Absent
+1193,2017-02-15,Ad Hoc Sustainability Committee,22960,290,Hilda L. Solis,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22960,1821,Carrie Bowen,Present
+1193,2017-02-15,Ad Hoc Sustainability Committee,22960,1848,Phil Washington,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24188,1986,Robert Garcia,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24188,290,Hilda L. Solis,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24188,1848,Phil Washington,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24188,284,Jacquelyn Dupont-Walker,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24188,1981,Janice Hahn,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24188,288,Ara J. Najarian,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24188,1821,Carrie Bowen,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24189,1986,Robert Garcia,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24189,290,Hilda L. Solis,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24189,1848,Phil Washington,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24189,284,Jacquelyn Dupont-Walker,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24189,1981,Janice Hahn,Absent
+1204,2017-04-19,"Finance, Budget and Audit Committee",24189,288,Ara J. Najarian,Present
+1204,2017-04-19,"Finance, Budget and Audit Committee",24189,1821,Carrie Bowen,Present
+1205,2017-04-19,Planning and Programming Committee,24191,1982,Kathryn Barger,Present
+1205,2017-04-19,Planning and Programming Committee,24191,1820,James Butts,Present
+1205,2017-04-19,Planning and Programming Committee,24191,1848,Phil Washington,Present
+1205,2017-04-19,Planning and Programming Committee,24191,290,Hilda L. Solis,Present
+1205,2017-04-19,Planning and Programming Committee,24191,286,Paul Krekorian,Present
+1205,2017-04-19,Planning and Programming Committee,24191,288,Ara J. Najarian,Present
+1205,2017-04-19,Planning and Programming Committee,24191,1821,Carrie Bowen,Present
+1205,2017-04-19,Planning and Programming Committee,24192,1982,Kathryn Barger,Absent
+1205,2017-04-19,Planning and Programming Committee,24192,1820,James Butts,Absent
+1205,2017-04-19,Planning and Programming Committee,24192,1848,Phil Washington,Present
+1205,2017-04-19,Planning and Programming Committee,24192,290,Hilda L. Solis,Present
+1205,2017-04-19,Planning and Programming Committee,24192,286,Paul Krekorian,Present
+1205,2017-04-19,Planning and Programming Committee,24192,288,Ara J. Najarian,Present
+1205,2017-04-19,Planning and Programming Committee,24192,1821,Carrie Bowen,Present
+1207,2017-06-14,Ad Hoc Sustainability Committee,25921,289,Pam O'Connor,Absent
+1207,2017-06-14,Ad Hoc Sustainability Committee,25921,282,Mike Bonin,Absent
+1207,2017-06-14,Ad Hoc Sustainability Committee,25921,1983,Marisa Creter,Present
+1207,2017-06-14,Ad Hoc Sustainability Committee,25921,280,John Fasana,Present
+1207,2017-06-14,Ad Hoc Sustainability Committee,25921,1044,Nancy Pfeffer,Present
+1207,2017-06-14,Ad Hoc Sustainability Committee,25921,279,Mark Ridley-Thomas,Absent
+1207,2017-06-14,Ad Hoc Sustainability Committee,25921,290,Hilda L. Solis,Present
+1207,2017-06-14,Ad Hoc Sustainability Committee,25921,1821,Carrie Bowen,Present
+1207,2017-06-14,Ad Hoc Sustainability Committee,25921,1848,Phil Washington,Present
+1208,2017-05-18,Construction Committee,25048,287,Sheila Kuehl,Present
+1208,2017-05-18,Construction Committee,25048,1986,Robert Garcia,Absent
+1208,2017-05-18,Construction Committee,25048,282,Mike Bonin,Absent
+1208,2017-05-18,Construction Committee,25048,284,Jacquelyn Dupont-Walker,Present
+1208,2017-05-18,Construction Committee,25048,1981,Janice Hahn,Present
+1208,2017-05-18,Construction Committee,25048,1821,Carrie Bowen,Present
+1208,2017-05-18,Construction Committee,25048,1848,Phil Washington,Present
+1209,2017-05-18,Executive Management Committee,25058,280,John Fasana,Present
+1209,2017-05-18,Executive Management Committee,25058,278,Eric Garcetti,Present
+1209,2017-05-18,Executive Management Committee,25058,1820,James Butts,Present
+1209,2017-05-18,Executive Management Committee,25058,287,Sheila Kuehl,Absent
+1209,2017-05-18,Executive Management Committee,25058,279,Mark Ridley-Thomas,Absent
+1209,2017-05-18,Executive Management Committee,25058,1821,Carrie Bowen,Present
+1209,2017-05-18,Executive Management Committee,25058,1848,Phil Washington,Present
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,280,John Fasana,Present
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,278,Eric Garcetti,Absent
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,287,Sheila Kuehl,Present
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,1982,Kathryn Barger,Present
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,282,Mike Bonin,Absent
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,1820,James Butts,Absent
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,284,Jacquelyn Dupont-Walker,Present
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,1986,Robert Garcia,Present
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,1981,Janice Hahn,Present
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,286,Paul Krekorian,Absent
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,288,Ara J. Najarian,Present
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,279,Mark Ridley-Thomas,Absent
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,290,Hilda L. Solis,Present
+1210,2017-05-25,Board of Directors - Regular Board Meeting,25120,1821,Carrie Bowen,Present
+1211,2017-05-17,"Finance, Budget and Audit Committee",25005,284,Jacquelyn Dupont-Walker,Present
+1211,2017-05-17,"Finance, Budget and Audit Committee",25005,1981,Janice Hahn,Present
+1211,2017-05-17,"Finance, Budget and Audit Committee",25005,1986,Robert Garcia,Present
+1211,2017-05-17,"Finance, Budget and Audit Committee",25005,288,Ara J. Najarian,Present
+1211,2017-05-17,"Finance, Budget and Audit Committee",25005,290,Hilda L. Solis,Present
+1211,2017-05-17,"Finance, Budget and Audit Committee",25005,1821,Carrie Bowen,Present
+1211,2017-05-17,"Finance, Budget and Audit Committee",25005,1848,Phil Washington,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24185,1981,Janice Hahn,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24185,1982,Kathryn Barger,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24185,1848,Phil Washington,Absent
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24185,280,John Fasana,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24185,288,Ara J. Najarian,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24185,284,Jacquelyn Dupont-Walker,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24185,1821,Carrie Bowen,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24186,1981,Janice Hahn,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24186,1982,Kathryn Barger,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24186,1848,Phil Washington,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24186,280,John Fasana,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24186,288,Ara J. Najarian,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24186,284,Jacquelyn Dupont-Walker,Present
+1212,2017-04-19,"Ad Hoc Congestion, Highway and Roads Committee",24186,1821,Carrie Bowen,Present
+1213,2017-05-17,"Ad Hoc Congestion, Highway and Roads Committee",25043,280,John Fasana,Present
+1213,2017-05-17,"Ad Hoc Congestion, Highway and Roads Committee",25043,288,Ara J. Najarian,Present
+1213,2017-05-17,"Ad Hoc Congestion, Highway and Roads Committee",25043,1982,Kathryn Barger,Present
+1213,2017-05-17,"Ad Hoc Congestion, Highway and Roads Committee",25043,284,Jacquelyn Dupont-Walker,Present
+1213,2017-05-17,"Ad Hoc Congestion, Highway and Roads Committee",25043,1981,Janice Hahn,Present
+1213,2017-05-17,"Ad Hoc Congestion, Highway and Roads Committee",25043,1821,Carrie Bowen,Present
+1213,2017-05-17,"Ad Hoc Congestion, Highway and Roads Committee",25043,1848,Phil Washington,Present
+1216,2017-05-18,"System Safety, Security and Operations Committee",25051,282,Mike Bonin,Absent
+1216,2017-05-18,"System Safety, Security and Operations Committee",25051,1982,Kathryn Barger,Present
+1216,2017-05-18,"System Safety, Security and Operations Committee",25051,1986,Robert Garcia,Present
+1216,2017-05-18,"System Safety, Security and Operations Committee",25051,279,Mark Ridley-Thomas,Absent
+1216,2017-05-18,"System Safety, Security and Operations Committee",25051,1821,Carrie Bowen,Present
+1216,2017-05-18,"System Safety, Security and Operations Committee",25051,1848,Phil Washington,Present
+1216,2017-05-18,"System Safety, Security and Operations Committee",25051,284,Jacquelyn Dupont-Walker,Present
+1218,2017-06-15,Construction Committee,25404,287,Sheila Kuehl,Absent
+1218,2017-06-15,Construction Committee,25404,1986,Robert Garcia,Present
+1218,2017-06-15,Construction Committee,25404,282,Mike Bonin,Present
+1218,2017-06-15,Construction Committee,25404,284,Jacquelyn Dupont-Walker,Present
+1218,2017-06-15,Construction Committee,25404,1981,Janice Hahn,Absent
+1218,2017-06-15,Construction Committee,25404,1821,Carrie Bowen,Present
+1218,2017-06-15,Construction Committee,25404,1848,Phil Washington,Present
+1219,2017-06-15,Executive Management Committee,25701,280,John Fasana,Present
+1219,2017-06-15,Executive Management Committee,25701,278,Eric Garcetti,Present
+1219,2017-06-15,Executive Management Committee,25701,1820,James Butts,Absent
+1219,2017-06-15,Executive Management Committee,25701,287,Sheila Kuehl,Present
+1219,2017-06-15,Executive Management Committee,25701,279,Mark Ridley-Thomas,Absent
+1219,2017-06-15,Executive Management Committee,25701,1821,Carrie Bowen,Present
+1219,2017-06-15,Executive Management Committee,25701,1848,Phil Washington,Present
+1220,2017-06-14,"Finance, Budget and Audit Committee",25183,284,Jacquelyn Dupont-Walker,Present
+1220,2017-06-14,"Finance, Budget and Audit Committee",25183,1981,Janice Hahn,Present
+1220,2017-06-14,"Finance, Budget and Audit Committee",25183,1986,Robert Garcia,Absent
+1220,2017-06-14,"Finance, Budget and Audit Committee",25183,288,Ara J. Najarian,Present
+1220,2017-06-14,"Finance, Budget and Audit Committee",25183,290,Hilda L. Solis,Present
+1220,2017-06-14,"Finance, Budget and Audit Committee",25183,1821,Carrie Bowen,Present
+1220,2017-06-14,"Finance, Budget and Audit Committee",25183,1848,Phil Washington,Present
+1221,2017-06-14,Planning and Programming Committee,25258,290,Hilda L. Solis,Present
+1221,2017-06-14,Planning and Programming Committee,25258,286,Paul Krekorian,Absent
+1221,2017-06-14,Planning and Programming Committee,25258,1982,Kathryn Barger,Present
+1221,2017-06-14,Planning and Programming Committee,25258,288,Ara J. Najarian,Present
+1221,2017-06-14,Planning and Programming Committee,25258,1820,James Butts,Present
+1221,2017-06-14,Planning and Programming Committee,25258,1821,Carrie Bowen,Present
+1221,2017-06-14,Planning and Programming Committee,25258,1848,Phil Washington,Present
+1222,2017-06-15,"System Safety, Security and Operations Committee",25525,282,Mike Bonin,Present
+1222,2017-06-15,"System Safety, Security and Operations Committee",25525,1982,Kathryn Barger,Present
+1222,2017-06-15,"System Safety, Security and Operations Committee",25525,1986,Robert Garcia,Present
+1222,2017-06-15,"System Safety, Security and Operations Committee",25525,286,Paul Krekorian,Absent
+1222,2017-06-15,"System Safety, Security and Operations Committee",25525,279,Mark Ridley-Thomas,Present
+1222,2017-06-15,"System Safety, Security and Operations Committee",25525,1821,Carrie Bowen,Present
+1222,2017-06-15,"System Safety, Security and Operations Committee",25525,1848,Phil Washington,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,286,Paul Krekorian,Absent
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,280,John Fasana,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,1981,Janice Hahn,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,282,Mike Bonin,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,290,Hilda L. Solis,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,1820,James Butts,Absent
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,278,Eric Garcetti,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,287,Sheila Kuehl,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,1982,Kathryn Barger,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,284,Jacquelyn Dupont-Walker,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,279,Mark Ridley-Thomas,Absent
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,288,Ara J. Najarian,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,1986,Robert Garcia,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,1821,Carrie Bowen,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26879,1848,Phil Washington,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,286,Paul Krekorian,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,280,John Fasana,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,1981,Janice Hahn,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,282,Mike Bonin,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,290,Hilda L. Solis,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,1820,James Butts,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,278,Eric Garcetti,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,287,Sheila Kuehl,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,1982,Kathryn Barger,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,284,Jacquelyn Dupont-Walker,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,279,Mark Ridley-Thomas,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,288,Ara J. Najarian,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,1986,Robert Garcia,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,1821,Carrie Bowen,Present
+1231,2017-07-27,Board of Directors - Regular Board Meeting,26884,1848,Phil Washington,Present
+1236,2017-09-20,"Finance, Budget and Audit Committee",27741,1981,Janice Hahn,Present
+1236,2017-09-20,"Finance, Budget and Audit Committee",27741,280,John Fasana,Present
+1236,2017-09-20,"Finance, Budget and Audit Committee",27741,1982,Kathryn Barger,Present
+1236,2017-09-20,"Finance, Budget and Audit Committee",27741,286,Paul Krekorian,Present
+1236,2017-09-20,"Finance, Budget and Audit Committee",27741,288,Ara J. Najarian,Absent
+1236,2017-09-20,"Finance, Budget and Audit Committee",27741,1821,Carrie Bowen,Present
+1236,2017-09-20,"Finance, Budget and Audit Committee",27741,1848,Phil Washington,Present
+1241,2017-09-21,"System Safety, Security and Operations Committee",27749,290,Hilda L. Solis,Present
+1241,2017-09-21,"System Safety, Security and Operations Committee",27749,286,Paul Krekorian,Present
+1241,2017-09-21,"System Safety, Security and Operations Committee",27749,280,John Fasana,Present
+1241,2017-09-21,"System Safety, Security and Operations Committee",27749,1986,Robert Garcia,Present
+1241,2017-09-21,"System Safety, Security and Operations Committee",27749,279,Mark Ridley-Thomas,Absent
+1241,2017-09-21,"System Safety, Security and Operations Committee",27749,1821,Carrie Bowen,Present
+1241,2017-09-21,"System Safety, Security and Operations Committee",27749,1848,Phil Washington,Present
+1251,2017-09-20,"Ad Hoc Congestion, Highway and Roads Committee",26915,284,Jacquelyn Dupont-Walker,Present
+1251,2017-09-20,"Ad Hoc Congestion, Highway and Roads Committee",26915,1982,Kathryn Barger,Present
+1251,2017-09-20,"Ad Hoc Congestion, Highway and Roads Committee",26915,1981,Janice Hahn,Present
+1251,2017-09-20,"Ad Hoc Congestion, Highway and Roads Committee",26915,280,John Fasana,Present
+1251,2017-09-20,"Ad Hoc Congestion, Highway and Roads Committee",26915,288,Ara J. Najarian,Absent
+1251,2017-09-20,"Ad Hoc Congestion, Highway and Roads Committee",26915,1848,Phil Washington,Present
+1251,2017-09-20,"Ad Hoc Congestion, Highway and Roads Committee",26915,1861,Shirley Choate,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,278,Eric Garcetti,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,287,Sheila Kuehl,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,1820,James Butts,Absent
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,1982,Kathryn Barger,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,282,Mike Bonin,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,284,Jacquelyn Dupont-Walker,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,280,John Fasana,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,1986,Robert Garcia,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,1981,Janice Hahn,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,286,Paul Krekorian,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,288,Ara J. Najarian,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,279,Mark Ridley-Thomas,Absent
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,290,Hilda L. Solis,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,1821,Carrie Bowen,Present
+1252,2017-10-26,Board of Directors - Regular Board Meeting,28535,1848,Phil Washington,Present
+1260,2017-11-16,Construction Committee,29034,1820,James Butts,Absent
+1260,2017-11-16,Construction Committee,29034,284,Jacquelyn Dupont-Walker,Present
+1260,2017-11-16,Construction Committee,29034,287,Sheila Kuehl,Present
+1260,2017-11-16,Construction Committee,29034,1821,Carrie Bowen,Present
+1260,2017-11-16,Construction Committee,29034,1848,Phil Washington,Present
+1260,2017-11-16,Construction Committee,29034,280,John Fasana,Present
+1261,2017-11-16,Executive Management Committee,29036,280,John Fasana,Present
+1261,2017-11-16,Executive Management Committee,29036,1820,James Butts,Present
+1261,2017-11-16,Executive Management Committee,29036,278,Eric Garcetti,Present
+1261,2017-11-16,Executive Management Committee,29036,287,Sheila Kuehl,Present
+1261,2017-11-16,Executive Management Committee,29036,279,Mark Ridley-Thomas,Present
+1261,2017-11-16,Executive Management Committee,29036,284,Jacquelyn Dupont-Walker,Present
+1261,2017-11-16,Executive Management Committee,29036,1821,Carrie Bowen,Present
+1261,2017-11-16,Executive Management Committee,29036,1848,Phil Washington,Present
+1262,2017-11-15,"Finance, Budget and Audit Committee",29027,1982,Kathryn Barger,Present
+1262,2017-11-15,"Finance, Budget and Audit Committee",29027,286,Paul Krekorian,Absent
+1262,2017-11-15,"Finance, Budget and Audit Committee",29027,280,John Fasana,Present
+1262,2017-11-15,"Finance, Budget and Audit Committee",29027,1981,Janice Hahn,Present
+1262,2017-11-15,"Finance, Budget and Audit Committee",29027,288,Ara J. Najarian,Present
+1262,2017-11-15,"Finance, Budget and Audit Committee",29027,1821,Carrie Bowen,Present
+1262,2017-11-15,"Finance, Budget and Audit Committee",29027,1848,Phil Washington,Present
+1263,2017-11-15,Planning and Programming Committee,29030,284,Jacquelyn Dupont-Walker,Present
+1263,2017-11-15,Planning and Programming Committee,29030,290,Hilda L. Solis,Present
+1263,2017-11-15,Planning and Programming Committee,29030,1982,Kathryn Barger,Absent
+1263,2017-11-15,Planning and Programming Committee,29030,282,Mike Bonin,Present
+1263,2017-11-15,Planning and Programming Committee,29030,288,Ara J. Najarian,Absent
+1263,2017-11-15,Planning and Programming Committee,29030,1821,Carrie Bowen,Present
+1263,2017-11-15,Planning and Programming Committee,29030,1848,Phil Washington,Present
+1263,2017-11-15,Planning and Programming Committee,29030,280,John Fasana,Present
+1264,2017-11-16,"System Safety, Security and Operations Committee",29031,280,John Fasana,Present
+1264,2017-11-16,"System Safety, Security and Operations Committee",29031,279,Mark Ridley-Thomas,Absent
+1264,2017-11-16,"System Safety, Security and Operations Committee",29031,290,Hilda L. Solis,Absent
+1264,2017-11-16,"System Safety, Security and Operations Committee",29031,1821,Carrie Bowen,Present
+1264,2017-11-16,"System Safety, Security and Operations Committee",29031,1848,Phil Washington,Present
+1264,2017-11-16,"System Safety, Security and Operations Committee",29031,284,Jacquelyn Dupont-Walker,Present
+1264,2017-11-16,"System Safety, Security and Operations Committee",29031,287,Sheila Kuehl,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,286,Paul Krekorian,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,280,John Fasana,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,1981,Janice Hahn,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,282,Mike Bonin,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,290,Hilda L. Solis,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,1820,James Butts,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,278,Eric Garcetti,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,287,Sheila Kuehl,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,1982,Kathryn Barger,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,284,Jacquelyn Dupont-Walker,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,279,Mark Ridley-Thomas,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,288,Ara J. Najarian,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,1986,Robert Garcia,Absent
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,1821,Carrie Bowen,Present
+1265,2017-11-30,Board of Directors - Regular Board Meeting,29674,1848,Phil Washington,Present
+1272,2017-11-16,Ad Hoc Customer Experience Committee,29038,2023,Dave Myers,Absent
+1272,2017-11-16,Ad Hoc Customer Experience Committee,29038,2021,Tafarai Bayne,Present
+1272,2017-11-16,Ad Hoc Customer Experience Committee,29038,284,Jacquelyn Dupont-Walker,Present
+1272,2017-11-16,Ad Hoc Customer Experience Committee,29038,282,Mike Bonin,Present
+1272,2017-11-16,Ad Hoc Customer Experience Committee,29038,1986,Robert Garcia,Absent
+1272,2017-11-16,Ad Hoc Customer Experience Committee,29038,1393,Yvette Lopez-Ledesma,Present
+1272,2017-11-16,Ad Hoc Customer Experience Committee,29038,2022,Kurt Hagen,Absent
+1272,2017-11-16,Ad Hoc Customer Experience Committee,29038,1848,Phil Washington,Present
+1272,2017-11-16,Ad Hoc Customer Experience Committee,29038,1821,Carrie Bowen,Present

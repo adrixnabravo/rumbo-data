@@ -1,0 +1,91 @@
+name: Backfill history
+
+on:
+  workflow_dispatch:
+    inputs:
+      first_year:
+        description: "First year to pull"
+        default: "2015"
+      last_year:
+        description: "Last year to pull"
+        default: "2026"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+
+jobs:
+  years:
+    runs-on: ubuntu-latest
+    outputs:
+      list: ${{ steps.y.outputs.list }}
+    steps:
+      - id: y
+        run: |
+          python3 -c "import json; print('list=' + json.dumps([str(y) for y in range(int('${{ inputs.first_year }}'), int('${{ inputs.last_year }}') + 1)]))" >> "$GITHUB_OUTPUT"
+
+  pull:
+    needs: years
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        year: ${{ fromJson(needs.years.outputs.list) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pull ${{ matrix.year }}
+        run: |
+          next=$(( ${{ matrix.year }} + 1 ))
+          python scripts/fetch_legistar.py --skip-reference --since "${{ matrix.year }}-01-01" --until "${next}-01-01"
+      - name: Stage only this year's files
+        run: |
+          mkdir -p stage
+          for f in data/*/${{ matrix.year }}.csv; do
+            [ -e "$f" ] || continue
+            kind=$(basename "$(dirname "$f")")
+            mkdir -p "stage/$kind"
+            cp "$f" "stage/$kind/"
+          done
+      - uses: actions/upload-artifact@v4
+        with:
+          name: data-${{ matrix.year }}
+          path: stage/
+          if-no-files-found: ignore
+
+  commit:
+    needs: pull
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/download-artifact@v4
+        with:
+          path: incoming
+      - name: Merge years and pull reference tables
+        run: |
+          for d in incoming/data-*; do
+            [ -d "$d" ] && cp -r "$d"/. data/
+          done
+          python -c "import sys; sys.path.insert(0,'scripts'); import fetch_legistar as f; f.pull_reference()"
+      - name: Commit
+        run: |
+          git config user.name "rumbo-bot"
+          git config user.email "rumbo-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Backfill ${{ inputs.first_year }}-${{ inputs.last_year }}"
+            git push
+          fi

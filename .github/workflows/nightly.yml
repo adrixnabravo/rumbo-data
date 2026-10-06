@@ -1,0 +1,40 @@
+name: Nightly update
+
+on:
+  schedule:
+    - cron: "17 11 * * *"   # 4:17 a.m. Pacific (daylight time)
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Refresh the last N days"
+        default: "120"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pull recent Metro Board records
+        run: python scripts/fetch_legistar.py --days "${{ github.event.inputs.days || '120' }}"
+      - name: Commit changes
+        run: |
+          git config user.name "rumbo-bot"
+          git config user.email "rumbo-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Nightly update: $(date -u +%Y-%m-%d)"
+            git push
+          fi

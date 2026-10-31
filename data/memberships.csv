@@ -424,7 +424,7 @@ person_id,person,body_id,body,title,member_type,start,end
 2215,Virginia Tanzmann,248,Measure M Independent Taxpayer Oversight Committee,Committee Member,Member,2023-07-01,2024-06-30
 2215,Virginia Tanzmann,248,Measure M Independent Taxpayer Oversight Committee,Committee Member,Member,2024-07-01,2025-06-30
 2215,Virginia Tanzmann,248,Measure M Independent Taxpayer Oversight Committee,Committee Member,Member,2025-07-01,2026-06-30
-2215,Virginia Tanzmann,248,Measure M Independent Taxpayer Oversight Committee,Committee Member,Member,2026-07-01,2027-06-30
+2215,Virginia Tanzmann,248,Measure M Independent Taxpayer Oversight Committee,Committee Member,Member,2026-07-01,2026-09-02
 2215,Virginia Tanzmann,264,Measure M Independent Taxpayer Oversight Committee - Public Hearing,Committee Member,Member,2020-07-01,2021-06-30
 2215,Virginia Tanzmann,264,Measure M Independent Taxpayer Oversight Committee - Public Hearing,Chair,Chair,2022-07-01,2023-06-30
 2215,Virginia Tanzmann,264,Measure M Independent Taxpayer Oversight Committee - Public Hearing,Committee Member,Member,2024-07-01,2025-06-30
@@ -440,6 +440,7 @@ person_id,person,body_id,body,title,member_type,start,end
 2217,Richard Stanger,298,Special Measure M Independent Taxpayer Oversight Committee,Committee Member,Member,2022-07-01,2023-06-30
 2217,Richard Stanger,298,Special Measure M Independent Taxpayer Oversight Committee,Chair,Chair,2023-07-01,2024-06-30
 2218,Gregory Amparano ,264,Measure M Independent Taxpayer Oversight Committee - Public Hearing,Committee Member,Member,2020-07-01,2021-06-30
+2225,Jay Gandhi,248,Measure M Independent Taxpayer Oversight Committee,Committee Member,Member,2026-09-24,2027-06-30
 2225,Jay Gandhi,250,Measure R Independent Taxpayer Oversight Committee,Committee Member,Member,2020-07-01,2022-06-30
 2225,Jay Gandhi,250,Measure R Independent Taxpayer Oversight Committee,Committee Member,Member,2025-07-01,2026-06-30
 2225,Jay Gandhi,250,Measure R Independent Taxpayer Oversight Committee,Chair,Chair,2026-07-01,2027-06-30
@@ -476,11 +477,13 @@ person_id,person,body_id,body,title,member_type,start,end
 2235,Belinda Faustinos,251,Independent Citizen's Advisory and Oversight Committee,Chair,Chair,2020-07-01,2022-06-30
 2235,Belinda Faustinos,251,Independent Citizen's Advisory and Oversight Committee,Committee Member,Member,2022-07-01,2023-06-30
 2235,Belinda Faustinos,251,Independent Citizen's Advisory and Oversight Committee,Chair,Chair,2025-07-01,2026-06-30
+2235,Belinda Faustinos,251,Independent Citizen's Advisory and Oversight Committee,Committee Member,Member,2026-07-01,2027-06-30
 2235,Belinda Faustinos,263,Independent Citizens' Advisory and Oversight Committee - Public Hearing,Chair,Member,2020-07-01,2021-06-30
 2235,Belinda Faustinos,263,Independent Citizens' Advisory and Oversight Committee - Public Hearing,Chair,Chair,2025-07-01,2026-06-30
 2236,Emina Darakjy,251,Independent Citizen's Advisory and Oversight Committee,1st Vice Chair,Vice Chair,2020-07-01,2022-06-30
 2236,Emina Darakjy,251,Independent Citizen's Advisory and Oversight Committee,Chair,Chair,2022-07-01,2023-06-30
 2236,Emina Darakjy,251,Independent Citizen's Advisory and Oversight Committee,Vice Chair,Vice Chair,2025-07-01,2026-06-30
+2236,Emina Darakjy,251,Independent Citizen's Advisory and Oversight Committee,Chair,Chair,2026-07-01,2027-06-30
 2236,Emina Darakjy,263,Independent Citizens' Advisory and Oversight Committee - Public Hearing,1st Vice Chair,Member,2020-07-01,2021-06-30
 2236,Emina Darakjy,263,Independent Citizens' Advisory and Oversight Committee - Public Hearing,Vice Chair,Vice Chair,2025-07-01,2026-06-30
 2237,Louis Moret,251,Independent Citizen's Advisory and Oversight Committee,Committee Member,Member,2020-07-01,2022-06-30
@@ -490,6 +493,7 @@ person_id,person,body_id,body,title,member_type,start,end
 2238,Brian Russell,251,Independent Citizen's Advisory and Oversight Committee,Committee Member,Member,2020-07-01,2022-06-30
 2238,Brian Russell,251,Independent Citizen's Advisory and Oversight Committee,Committee Member,Member,2022-07-01,2023-06-30
 2238,Brian Russell,251,Independent Citizen's Advisory and Oversight Committee,Committee Member,Member,2025-07-01,2026-06-30
+2238,Brian Russell,251,Independent Citizen's Advisory and Oversight Committee,Committee Member,Member,2026-07-01,2027-06-30
 2238,Brian Russell,263,Independent Citizens' Advisory and Oversight Committee - Public Hearing,Committee Member,Member,2020-07-01,2021-06-30
 2238,Brian Russell,263,Independent Citizens' Advisory and Oversight Committee - Public Hearing,Committee Member,Member,2025-07-01,2026-06-30
 2240,Holly J. Mitchell,138,Board of Directors - Regular Board Meeting,Board Member,Member,2020-12-07,2021-06-30
@@ -1410,6 +1414,7 @@ person_id,person,body_id,body,title,member_type,start,end
 3635,Ernesto Medrano,320,Ad Hoc Board Composition Committee,Committee Member,Member,2026-02-02,2026-06-30
 3636,Terry Dipple,320,Ad Hoc Board Composition Committee,Committee Member,Member,2026-02-04,2026-06-30
 3639,Billie Green,251,Independent Citizen's Advisory and Oversight Committee,Committee Member,Member,2026-01-20,2026-06-30
+3639,Billie Green,251,Independent Citizen's Advisory and Oversight Committee,Vice Chair,Vice Chair,2026-07-01,2027-06-30
 3639,Billie Green,263,Independent Citizens' Advisory and Oversight Committee - Public Hearing,Committee Member,Member,2026-01-20,2026-06-30
 3640,Clifford Klein,250,Measure R Independent Taxpayer Oversight Committee,Chair,Chair,2025-07-01,2026-06-30
 3640,Clifford Klein,250,Measure R Independent Taxpayer Oversight Committee,Committee Member,Member,2026-07-01,2027-06-30
@@ -1426,6 +1431,8 @@ person_id,person,body_id,body,title,member_type,start,end
 3692,Patsy Ayala,139,"Finance, Budget and Audit Committee",Committee Member,Member,2026-09-30,2027-06-30
 3692,Patsy Ayala,199,Board of Directors - Special Board Meeting,Board Member,Member,2026-09-30,2027-06-30
 3692,Patsy Ayala,245,"Operations, Safety, and Customer Experience Committee",Committee Member,Member,2026-09-30,2027-06-30
+3695,Teri Aranguren,251,Independent Citizen's Advisory and Oversight Committee,Committee Member,Member,2026-10-27,2027-06-30
+3696,Daniel Freeman,248,Measure M Independent Taxpayer Oversight Committee,Committee Member,Member,2026-09-24,2027-06-30
 798,Michael Moore,248,Measure M Independent Taxpayer Oversight Committee,Committee Member,Member,2025-05-23,2025-06-30
 798,Michael Moore,248,Measure M Independent Taxpayer Oversight Committee,Committee Member,Member,2025-07-01,2026-06-30
 798,Michael Moore,248,Measure M Independent Taxpayer Oversight Committee,Vice Chair,Vice Chair,2026-07-01,2027-06-30
